@@ -1,0 +1,1001 @@
+id,phoneNo,location,occupation,certification,age,gender,type,availabilityPreference,availability,minimumWage,experience,clientsAttended,aadharCard,doorstepService ,references,liscenced,shoppingliscence
+1,8502110397,Ambegaon,Accountant,true,39,Male,Part Time,Afternoon,Afternoon,2000,4,30,472620766389,no,true,false,false
+2,7869280046,Ambegaon,Brick mason,false,40,Male,Part Time,Morning,Morning,2500,5,29,117016707420,no,true,false,true
+3,9160157410,Ambegaon,Carpenter,false,20,Male,Part Time,Morning,Morning,7500,7,60,404783757623,yes,true,false,false
+4,8675841349,Ambegaon,Cashier,true,40,Female,Full Time,Evening,Whole Day,8500,8,43,285335504326,no,true,false,true
+5,9345253521,Ambegaon,Childcare Worker,false,38,Female,Part Time,Afternoon,Afternoon,7500,8,48,912374673056,yes,false,false,false
+6,7044840495,Ambegaon,Cook,true,33,Male,Full Time,Morning,Whole Day,6000,8,53,064366532261,yes,false,false,true
+7,9539420074,Ambegaon,Driver,false,18,Male,Part Time,Evening,Evening,6000,7,45,402774676185,yes,false,false,true
+8,8924077210,Ambegaon,Electrician,true,21,Male,Part Time,Evening,Evening,3500,3,34,540605506248,yes,false,false,true
+9,9442300902,Ambegaon,Hairdresser,false,31,Female,Full Time,Afternoon,Whole Day,9000,10,46,182967201947,no,false,false,true
+10,9222095160,Ambegaon,Janitor,false,35,Male,Full Time,Afternoon,Whole Day,7500,7,51,347630623401,no,true,false,false
+11,8355652726,Ambegaon,Maid,true,18,Female,Part Time,Morning,Morning,10000,8,55,568803954997,yes,false,false,true
+12,9093612765,Ambegaon,Mehndi Artist,false,36,Female,Part Time,Morning,Morning,3500,2,14,218475703553,no,false,false,true
+13,9185406948,Ambegaon,Painter,false,29,Male,Full Time,Evening,Whole Day,8500,10,41,907884785092,no,false,false,false
+14,7425976483,Ambegaon,Plumber,false,31,Male,Full Time,Evening,Whole Day,10000,8,59,340660481245,yes,true,false,false
+15,9125069443,Ambegaon,Receptionist,true,31,Male,Full Time,Afternoon,Whole Day,5500,9,46,759290974287,no,true,false,false
+16,7875625615,Ambegaon,Security Guard,true,22,Male,Part Time,Morning,Morning,9500,6,44,313044376708,yes,true,false,true
+17,8439287358,Ambegaon,Tailor,true,28,Male,Part Time,Afternoon,Afternoon,6500,7,58,967547659940,no,true,false,false
+18,7094634941,Ambegaon,Waiter,true,38,Male,Full Time,Afternoon,Whole Day,8000,6,47,495671637761,no,false,false,true
+19,9931028803,Ambegaon,Waitress,false,31,Female,Part Time,Afternoon,Afternoon,5500,10,55,328394725139,no,true,false,false
+20,9622363359,Ambegaon,Worker,false,40,Male,Part Time,Afternoon,Afternoon,9500,6,47,137027253938,yes,false,false,true
+21,9081020768,Ambegaon,Salesperson,true,40,Male,Full Time,Morning,Whole Day,2000,2,15,214239910550,no,true,false,false
+22,8159233598,Ambegaon,Delivery Boy,true,37,Male,Full Time,Evening,Whole Day,4000,1,15,828616224775,yes,true,false,false
+23,8942526742,Ambegaon,Mechanic,true,23,Male,Part Time,Morning,Morning,3500,2,10,915140078043,yes,false,false,false
+24,7971292571,Aundh,Accountant,false,24,Male,Full Time,Afternoon,Whole Day,8000,9,58,988534680042,no,true,false,false
+25,9619336779,Aundh,Brick mason,false,34,Male,Full Time,Morning,Whole Day,5000,9,44,146178564044,no,true,false,true
+26,8457700573,Aundh,Carpenter,false,40,Male,Full Time,Evening,Whole Day,4000,4,35,237868161933,yes,true,false,true
+27,9663602143,Aundh,Cashier,false,27,Male,Part Time,Afternoon,Afternoon,9000,6,50,567382790633,no,true,false,false
+28,7919615801,Aundh,Childcare Worker,true,25,Female,Full Time,Evening,Whole Day,4500,1,19,005761783973,yes,true,false,false
+29,8592881568,Aundh,Cook,false,36,Male,Part Time,Evening,Evening,8000,9,58,691467572384,yes,true,false,false
+30,8945208434,Aundh,Driver,true,31,Male,Full Time,Morning,Whole Day,9500,8,59,157379007878,yes,false,false,false
+31,7944893877,Aundh,Electrician,true,27,Male,Part Time,Evening,Evening,9500,9,60,978916579632,yes,false,false,true
+32,9590062212,Aundh,Hairdresser,true,32,Female,Part Time,Evening,Evening,3500,4,24,074423545350,no,true,false,true
+33,7486251452,Aundh,Janitor,true,30,Male,Full Time,Afternoon,Whole Day,3000,4,22,914731115292,no,false,false,true
+34,9509210984,Aundh,Maid,false,35,Female,Part Time,Morning,Morning,9500,7,58,555477181427,yes,true,false,false
+35,9682152793,Aundh,Mehndi Artist,false,23,Female,Full Time,Morning,Whole Day,8000,6,55,445218776001,no,true,false,true
+36,9937069609,Aundh,Painter,false,34,Male,Full Time,Morning,Whole Day,8500,8,47,122547479757,no,false,false,false
+37,7589535157,Aundh,Plumber,true,36,Male,Part Time,Morning,Morning,2500,3,26,641447263371,yes,true,false,true
+38,7545113425,Aundh,Receptionist,true,23,Male,Part Time,Evening,Evening,8000,9,49,395542851057,no,true,false,true
+39,9663335279,Aundh,Security Guard,true,37,Male,Part Time,Evening,Evening,10000,8,46,853839376656,yes,false,false,true
+40,9700549282,Aundh,Tailor,false,21,Male,Part Time,Evening,Evening,3000,2,19,540963373658,no,false,false,true
+41,8811420737,Aundh,Waiter,true,21,Male,Full Time,Afternoon,Whole Day,5000,9,50,655067749161,no,false,false,false
+42,9920359302,Aundh,Waitress,false,30,Female,Part Time,Evening,Evening,7500,8,43,244189140083,no,true,false,false
+43,7630157751,Aundh,Worker,false,39,Male,Part Time,Morning,Morning,5000,7,54,848189028906,yes,false,false,true
+44,9768112980,Aundh,Salesperson,false,21,Female,Part Time,Afternoon,Afternoon,3000,3,28,618545180695,no,true,false,true
+45,9423734588,Aundh,Delivery Boy,false,25,Male,Part Time,Afternoon,Afternoon,5500,8,48,184175592126,yes,true,false,false
+46,8629796176,Aundh,Mechanic,true,37,Male,Full Time,Afternoon,Whole Day,7500,6,42,309865122713,yes,false,false,false
+47,7429582080,Bibewadi,Accountant,false,35,Male,Full Time,Morning,Whole Day,8000,6,45,510871280299,no,false,false,true
+48,8053969356,Bibewadi,Brick mason,true,35,Male,Full Time,Afternoon,Whole Day,4000,4,39,986959494292,no,false,false,false
+49,9733593738,Bibewadi,Carpenter,false,34,Male,Full Time,Evening,Whole Day,8000,6,58,438941706947,yes,true,false,false
+50,9012268500,Bibewadi,Cashier,false,40,Female,Part Time,Morning,Morning,8500,8,48,354376566215,no,true,false,true
+51,8386926998,Bibewadi,Childcare Worker,false,29,Female,Full Time,Afternoon,Whole Day,7000,9,60,732947967116,yes,true,false,false
+52,9419933504,Bibewadi,Cook,true,39,Male,Full Time,Morning,Whole Day,4000,3,23,443619819319,yes,false,false,false
+53,9651956444,Bibewadi,Driver,true,22,Male,Part Time,Evening,Evening,2500,1,19,566199444579,yes,false,false,false
+54,9560065578,Bibewadi,Electrician,true,27,Male,Part Time,Morning,Morning,9000,8,54,124134125372,yes,true,false,false
+55,8401757059,Bibewadi,Hairdresser,true,40,Female,Part Time,Evening,Evening,2000,4,32,978451575937,no,false,false,true
+56,8923391485,Bibewadi,Janitor,true,18,Male,Full Time,Evening,Whole Day,7000,8,58,986200326448,no,false,false,true
+57,8657648978,Bibewadi,Maid,false,32,Female,Full Time,Evening,Whole Day,5000,9,53,004517430725,yes,true,false,false
+58,7221921941,Bibewadi,Mehndi Artist,true,21,Female,Full Time,Afternoon,Whole Day,9500,6,41,517367297599,no,false,false,false
+59,9902257910,Bibewadi,Painter,false,21,Male,Part Time,Morning,Morning,3500,2,6,420777220517,no,true,false,false
+60,7966111260,Bibewadi,Plumber,false,29,Male,Part Time,Evening,Evening,2000,1,16,589031437175,yes,false,false,true
+61,7247514816,Bibewadi,Receptionist,true,20,Male,Part Time,Morning,Morning,2000,5,33,060124660175,no,true,false,false
+62,9191378363,Bibewadi,Security Guard,true,33,Male,Full Time,Afternoon,Whole Day,5000,7,48,490753857467,yes,true,false,true
+63,9586527356,Bibewadi,Tailor,true,32,Male,Part Time,Evening,Evening,2500,3,34,673624482413,no,false,false,true
+64,9966454533,Bibewadi,Waiter,false,29,Male,Part Time,Afternoon,Afternoon,2500,5,28,186831410740,no,true,false,false
+65,7989138358,Bibewadi,Waitress,false,38,Female,Full Time,Morning,Whole Day,3000,2,12,385152176223,no,false,false,false
+66,8479291950,Bibewadi,Worker,true,34,Male,Part Time,Evening,Evening,2000,4,35,542461729249,yes,false,false,true
+67,9605965627,Bibewadi,Salesperson,false,36,Male,Full Time,Morning,Whole Day,7500,8,47,005187681055,no,false,false,false
+68,9106273082,Bibewadi,Delivery Boy,false,38,Male,Part Time,Evening,Evening,8500,9,55,236319588548,yes,true,false,false
+69,7135786663,Bibewadi,Mechanic,true,32,Male,Part Time,Morning,Morning,6000,10,57,441742253477,yes,false,false,false
+70,8354084681,Balewadi,Accountant,true,38,Male,Full Time,Evening,Whole Day,4500,3,28,942984662205,no,true,false,true
+71,8037826152,Balewadi,Brick mason,false,20,Male,Full Time,Evening,Whole Day,10000,7,47,720887441503,no,false,false,true
+72,9523470214,Balewadi,Carpenter,true,32,Male,Part Time,Evening,Evening,2000,4,29,808684238767,yes,true,false,true
+73,7101412057,Balewadi,Cashier,true,39,Female,Part Time,Afternoon,Afternoon,4500,5,26,941187325625,no,false,false,true
+74,9228849632,Balewadi,Childcare Worker,true,40,Female,Full Time,Afternoon,Whole Day,5000,6,48,104514235395,yes,true,false,true
+75,9603440084,Balewadi,Cook,true,29,Male,Full Time,Evening,Whole Day,9000,7,59,404094637753,yes,false,false,true
+76,8872854286,Balewadi,Driver,false,37,Male,Part Time,Morning,Morning,5500,7,44,639098670930,yes,false,false,false
+77,8196068390,Balewadi,Electrician,false,24,Male,Full Time,Afternoon,Whole Day,8000,9,60,888036754524,yes,true,false,true
+78,9832875103,Balewadi,Hairdresser,false,19,Female,Full Time,Evening,Whole Day,9000,8,49,355244798516,no,false,false,false
+79,9566079365,Balewadi,Janitor,true,23,Male,Part Time,Morning,Morning,8000,10,47,294353161679,no,true,false,true
+80,7499137819,Balewadi,Maid,false,37,Female,Full Time,Afternoon,Whole Day,6500,9,47,238156968816,yes,true,false,false
+81,7202181606,Balewadi,Mehndi Artist,true,20,Female,Full Time,Evening,Whole Day,6000,8,53,665305515060,no,true,false,true
+82,8786393149,Balewadi,Painter,true,26,Male,Full Time,Evening,Whole Day,6000,6,43,410822166976,no,false,false,false
+83,8305689505,Balewadi,Plumber,false,33,Male,Full Time,Evening,Whole Day,3000,3,32,114281232913,yes,false,false,false
+84,9005667139,Balewadi,Receptionist,false,26,Male,Full Time,Morning,Whole Day,7000,8,40,441707145112,no,true,false,false
+85,9363943022,Balewadi,Security Guard,false,31,Male,Full Time,Afternoon,Whole Day,6500,7,49,501266672804,yes,true,false,false
+86,9601013883,Balewadi,Tailor,true,34,Male,Part Time,Morning,Morning,3500,2,5,007218390058,no,true,false,false
+87,9736897010,Balewadi,Waiter,false,39,Male,Full Time,Morning,Whole Day,8000,6,58,865968438678,no,true,false,false
+88,8447391825,Balewadi,Waitress,true,37,Female,Full Time,Evening,Whole Day,8000,8,43,093670073966,no,false,false,false
+89,8730886981,Balewadi,Worker,true,24,Male,Part Time,Afternoon,Afternoon,4000,2,13,486730690004,yes,false,false,false
+90,9795296527,Balewadi,Salesperson,false,33,Male,Full Time,Afternoon,Whole Day,2500,2,17,916092737466,no,false,false,true
+91,9314744770,Balewadi,Delivery Boy,false,18,Male,Part Time,Afternoon,Afternoon,5500,6,40,706169952031,yes,true,false,true
+92,7527638728,Balewadi,Mechanic,false,28,Male,Full Time,Evening,Whole Day,4000,3,37,209785909305,yes,true,false,false
+93,7673844443,Baner,Accountant,false,32,Male,Full Time,Morning,Whole Day,8000,8,43,221287279548,no,true,false,true
+94,9026410914,Baner,Brick mason,true,40,Male,Part Time,Morning,Morning,2000,3,27,980094736927,no,false,false,true
+95,8718434152,Baner,Carpenter,true,37,Male,Full Time,Evening,Whole Day,6000,7,41,356617055852,yes,true,false,true
+96,8271144575,Baner,Cashier,false,22,Female,Full Time,Afternoon,Whole Day,8500,8,51,458214608260,no,true,false,true
+97,9332965148,Baner,Childcare Worker,false,31,Female,Full Time,Evening,Whole Day,5000,8,49,651439400161,yes,true,false,true
+98,7863311608,Baner,Cook,true,23,Male,Full Time,Afternoon,Whole Day,5500,7,48,708529918101,yes,true,false,false
+99,9070943184,Baner,Driver,true,18,Male,Part Time,Afternoon,Afternoon,8500,8,50,370285740080,yes,false,false,false
+100,8693825080,Baner,Electrician,false,39,Male,Part Time,Evening,Evening,8500,8,58,883233029645,yes,true,false,true
+101,7350502373,Baner,Hairdresser,true,39,Female,Full Time,Evening,Whole Day,8000,6,43,061682699030,no,true,false,true
+102,9910244003,Baner,Janitor,false,40,Male,Part Time,Morning,Morning,2000,4,35,188976481028,no,false,false,false
+103,8250604130,Baner,Maid,false,37,Female,Full Time,Evening,Whole Day,7000,9,50,892552068250,yes,false,false,false
+104,7828476597,Baner,Mehndi Artist,false,21,Female,Full Time,Morning,Whole Day,4500,2,9,972744116157,no,false,false,true
+105,8905525434,Baner,Painter,true,18,Male,Part Time,Evening,Evening,5000,6,41,988123353109,no,false,false,false
+106,9679271150,Baner,Plumber,false,22,Male,Part Time,Evening,Evening,8000,7,49,122296125842,yes,false,false,false
+107,9525353934,Baner,Receptionist,true,22,Female,Full Time,Evening,Whole Day,7500,9,48,107288677365,no,false,false,false
+108,9936479471,Baner,Security Guard,false,25,Male,Part Time,Morning,Morning,8000,9,54,862985247452,yes,false,false,true
+109,9491273954,Baner,Tailor,true,30,Male,Full Time,Evening,Whole Day,2500,2,19,229517261906,no,true,false,true
+110,9365528437,Baner,Waiter,false,40,Male,Full Time,Evening,Whole Day,6500,7,46,380033086774,no,false,false,true
+111,9437605963,Baner,Waitress,true,27,Female,Part Time,Afternoon,Afternoon,7500,10,46,335495707006,no,true,false,true
+112,7620044619,Baner,Worker,false,23,Male,Part Time,Morning,Morning,2000,2,5,705591835235,yes,false,false,false
+113,8959312668,Baner,Salesperson,false,21,Male,Part Time,Evening,Evening,3000,1,20,440676985795,no,false,false,false
+114,9489866760,Baner,Delivery Boy,true,36,Male,Full Time,Morning,Whole Day,8000,7,54,061517420013,yes,true,false,false
+115,9350034958,Baner,Mechanic,true,38,Male,Full Time,Afternoon,Whole Day,2500,3,22,515349984675,yes,true,false,true
+116,8626851728,Bavdhan,Accountant,false,35,Male,Full Time,Evening,Whole Day,2500,3,31,368807695308,no,true,false,true
+117,7766163038,Bavdhan,Brick mason,true,23,Male,Full Time,Afternoon,Whole Day,7000,10,54,098035780923,no,true,false,false
+118,9094237423,Bavdhan,Carpenter,false,39,Male,Full Time,Evening,Whole Day,8000,8,50,410702262370,yes,true,false,false
+119,7168720838,Bavdhan,Cashier,true,25,Female,Full Time,Evening,Whole Day,8500,8,52,743191616776,no,true,false,false
+120,9396647384,Bavdhan,Childcare Worker,true,38,Female,Full Time,Afternoon,Whole Day,4500,5,25,666728744367,yes,true,false,false
+121,8532148605,Bavdhan,Cook,true,21,Male,Full Time,Morning,Whole Day,7000,7,53,600969681002,yes,false,false,true
+122,9968066445,Bavdhan,Driver,false,29,Male,Full Time,Evening,Whole Day,2000,4,26,864698521196,yes,false,false,true
+123,7149358343,Bavdhan,Electrician,false,31,Male,Part Time,Morning,Morning,6500,7,40,794872982161,yes,true,false,true
+124,9646384380,Bavdhan,Hairdresser,false,26,Female,Full Time,Morning,Whole Day,4000,4,20,177055131624,no,true,false,true
+125,8894827048,Bavdhan,Janitor,false,39,Male,Full Time,Evening,Whole Day,6500,9,55,959664155838,no,true,false,true
+126,9631290654,Bavdhan,Maid,false,36,Female,Full Time,Evening,Whole Day,8000,7,55,985999045383,yes,false,false,true
+127,7078574060,Bavdhan,Mehndi Artist,false,29,Female,Part Time,Afternoon,Afternoon,9000,6,54,229324867976,no,true,false,true
+128,7382715159,Bavdhan,Painter,true,26,Male,Full Time,Morning,Whole Day,8500,10,51,628203725078,no,false,false,false
+129,9870935015,Bavdhan,Plumber,true,18,Male,Full Time,Morning,Whole Day,6500,10,42,992772955763,yes,true,false,true
+130,9070212551,Bavdhan,Receptionist,false,22,Female,Full Time,Evening,Whole Day,8000,10,49,271847697365,no,false,false,false
+131,9331262119,Bavdhan,Security Guard,true,31,Male,Part Time,Evening,Evening,4500,2,14,674119240808,yes,false,false,true
+132,9595202588,Bavdhan,Tailor,true,24,Male,Full Time,Afternoon,Whole Day,3500,4,30,442815010810,no,false,false,true
+133,8162799524,Bavdhan,Waiter,false,21,Male,Part Time,Afternoon,Afternoon,7500,9,49,758957520219,no,false,false,false
+134,7941978346,Bavdhan,Waitress,false,34,Female,Full Time,Evening,Whole Day,6500,10,59,061213785794,no,false,false,true
+135,9601260974,Bavdhan,Worker,false,37,Male,Part Time,Evening,Evening,8000,7,46,614197932694,yes,true,false,false
+136,9086068454,Bavdhan,Salesperson,false,34,Male,Part Time,Evening,Evening,2000,1,10,901521783049,no,false,false,true
+137,9160718008,Bavdhan,Delivery Boy,true,22,Male,Full Time,Afternoon,Whole Day,9000,8,53,889919555276,yes,false,false,false
+138,9543351012,Bavdhan,Mechanic,true,40,Male,Part Time,Morning,Morning,7500,9,52,538568134553,yes,true,false,false
+139,7659921843,Camp,Accountant,true,21,Male,Part Time,Afternoon,Afternoon,2000,1,20,898602715679,no,true,false,false
+140,7594943459,Camp,Brick mason,true,36,Male,Full Time,Morning,Whole Day,3000,4,20,387163847022,no,false,false,true
+141,9330679383,Camp,Carpenter,false,33,Male,Part Time,Evening,Evening,9500,7,57,629607771199,yes,false,false,false
+142,7055959339,Camp,Cashier,false,31,Male,Part Time,Afternoon,Afternoon,5500,7,52,137547699457,no,false,false,true
+143,9725284614,Camp,Childcare Worker,false,24,Female,Part Time,Evening,Evening,6500,9,46,297316020757,yes,true,false,false
+144,9047417227,Camp,Cook,false,32,Male,Full Time,Afternoon,Whole Day,4500,3,35,040221535611,yes,false,false,false
+145,9237991348,Camp,Driver,true,25,Male,Part Time,Morning,Morning,3000,2,16,025924031697,yes,true,false,true
+146,7549892629,Camp,Electrician,false,40,Male,Full Time,Evening,Whole Day,8500,10,59,873473819148,yes,true,false,false
+147,9946418754,Camp,Hairdresser,true,29,Female,Full Time,Morning,Whole Day,6000,7,40,196415295723,no,false,false,false
+148,9977467181,Camp,Janitor,true,19,Male,Part Time,Morning,Morning,4000,2,6,060279924335,no,false,false,false
+149,9174881816,Camp,Maid,false,38,Female,Full Time,Afternoon,Whole Day,4500,2,17,128053758154,yes,false,false,false
+150,7389461749,Camp,Mehndi Artist,false,22,Female,Part Time,Evening,Evening,5500,6,50,285772509050,no,false,false,true
+151,9893921886,Camp,Painter,false,26,Male,Full Time,Evening,Whole Day,2500,5,25,618188883359,no,true,false,false
+152,9804892315,Camp,Plumber,false,18,Male,Part Time,Morning,Morning,7500,8,52,626743946592,yes,false,false,false
+153,9727612699,Camp,Receptionist,false,26,Female,Part Time,Morning,Morning,2000,2,14,454482170588,no,true,false,true
+154,9891663424,Camp,Security Guard,true,19,Male,Part Time,Evening,Evening,8000,9,45,537613678880,yes,false,false,true
+155,9397656010,Camp,Tailor,false,39,Male,Full Time,Morning,Whole Day,9000,8,41,327154064824,no,true,false,false
+156,9492334528,Camp,Waiter,true,27,Male,Full Time,Morning,Whole Day,3500,2,12,106972421274,no,true,false,true
+157,9266084143,Camp,Waitress,true,31,Female,Full Time,Morning,Whole Day,9000,6,60,927787315073,no,false,false,true
+158,9132452573,Camp,Worker,true,19,Male,Part Time,Evening,Evening,7000,8,49,492256113618,yes,false,false,false
+159,9184784322,Camp,Salesperson,false,32,Male,Full Time,Morning,Whole Day,9500,6,55,463139789481,no,false,false,true
+160,9672881721,Camp,Delivery Boy,false,24,Male,Part Time,Morning,Morning,3000,3,24,200272410482,yes,false,false,false
+161,9235160578,Camp,Mechanic,false,18,Male,Part Time,Afternoon,Afternoon,10000,8,45,785445093243,yes,false,false,true
+162,8559669412,Chinchwad,Accountant,true,34,Male,Full Time,Morning,Whole Day,7500,8,46,628180600980,no,false,false,false
+163,9085643687,Chinchwad,Brick mason,false,34,Male,Full Time,Evening,Whole Day,10000,7,48,507488875599,no,true,false,false
+164,9931931690,Chinchwad,Carpenter,true,27,Male,Part Time,Morning,Morning,3000,5,35,536829336514,yes,true,false,true
+165,7973065594,Chinchwad,Cashier,true,37,Female,Full Time,Afternoon,Whole Day,10000,6,51,248665196241,no,true,false,true
+166,9424334851,Chinchwad,Childcare Worker,false,29,Female,Full Time,Afternoon,Whole Day,9000,10,52,578417329292,yes,true,false,true
+167,9148850817,Chinchwad,Cook,false,22,Male,Full Time,Afternoon,Whole Day,7000,7,44,549116092959,yes,true,false,true
+168,9200265782,Chinchwad,Driver,true,39,Male,Part Time,Evening,Evening,10000,6,53,891783593928,yes,false,false,false
+169,7683546668,Chinchwad,Electrician,false,20,Male,Part Time,Afternoon,Afternoon,9000,6,41,861767146041,yes,false,false,false
+170,9813230462,Chinchwad,Hairdresser,true,21,Female,Part Time,Morning,Morning,9000,7,41,861303021760,no,false,false,false
+171,9982917027,Chinchwad,Janitor,true,32,Male,Full Time,Morning,Whole Day,2000,1,17,965787106407,no,false,false,true
+172,7431031475,Chinchwad,Maid,true,32,Female,Part Time,Evening,Evening,10000,10,59,849574214288,yes,false,false,false
+173,9976699121,Chinchwad,Mehndi Artist,true,30,Female,Part Time,Morning,Morning,8000,6,42,034238258012,no,false,false,false
+174,8748075511,Chinchwad,Painter,false,21,Male,Full Time,Afternoon,Whole Day,9000,8,43,861173839051,no,true,false,true
+175,7412082893,Chinchwad,Plumber,true,19,Male,Part Time,Afternoon,Afternoon,5000,7,50,726051136927,yes,false,false,true
+176,9040535460,Chinchwad,Receptionist,true,38,Male,Full Time,Evening,Whole Day,2000,2,17,408184845888,no,true,false,false
+177,9042946426,Chinchwad,Security Guard,false,35,Male,Full Time,Afternoon,Whole Day,7500,8,59,446585763408,yes,true,false,true
+178,7302179026,Chinchwad,Tailor,true,27,Male,Part Time,Afternoon,Afternoon,7500,10,60,830862288341,no,true,false,false
+179,7236550037,Chinchwad,Waiter,true,38,Male,Part Time,Evening,Evening,8000,9,49,136090006775,no,false,false,true
+180,9883950218,Chinchwad,Waitress,true,26,Female,Part Time,Afternoon,Afternoon,7500,6,51,562422060317,no,false,false,true
+181,9063721343,Chinchwad,Worker,false,22,Male,Part Time,Evening,Evening,4000,4,31,785332728777,yes,true,false,true
+182,8849993171,Chinchwad,Salesperson,false,20,Female,Part Time,Morning,Morning,9500,10,56,044535733089,no,true,false,true
+183,7437535581,Chinchwad,Delivery Boy,false,36,Male,Full Time,Evening,Whole Day,2500,2,15,309218186986,yes,false,false,true
+184,7878979517,Chinchwad,Mechanic,true,18,Male,Part Time,Morning,Morning,3000,1,15,053540274734,yes,false,false,false
+185,8810374181,Dattawadi,Accountant,true,25,Male,Full Time,Afternoon,Whole Day,4000,5,33,534018193528,no,false,false,false
+186,8752653715,Dattawadi,Brick mason,false,36,Male,Full Time,Evening,Whole Day,10000,10,55,700263854146,no,true,false,false
+187,9897929944,Dattawadi,Carpenter,false,32,Male,Part Time,Evening,Evening,5500,7,55,036778675560,yes,false,false,false
+188,9693120113,Dattawadi,Cashier,false,33,Female,Part Time,Morning,Morning,9000,9,49,093958287572,no,false,false,false
+189,9936306070,Dattawadi,Childcare Worker,true,28,Female,Full Time,Evening,Whole Day,9000,6,41,089250161808,yes,true,false,true
+190,7908138949,Dattawadi,Cook,true,38,Male,Part Time,Morning,Morning,9500,7,54,613863919197,yes,false,false,true
+191,7104063215,Dattawadi,Driver,true,23,Male,Full Time,Evening,Whole Day,7500,8,42,626874694482,yes,true,false,false
+192,7570247922,Dattawadi,Electrician,false,19,Male,Part Time,Evening,Evening,2500,1,20,347582859575,yes,true,false,false
+193,9044529721,Dattawadi,Hairdresser,true,35,Female,Part Time,Morning,Morning,5000,9,44,901232829025,no,false,false,true
+194,9633909123,Dattawadi,Janitor,true,24,Male,Full Time,Evening,Whole Day,6000,6,55,886688513811,no,true,false,false
+195,9140284979,Dattawadi,Maid,true,23,Female,Full Time,Morning,Whole Day,4500,4,23,734577174100,yes,true,false,false
+196,7180896483,Dattawadi,Mehndi Artist,false,29,Female,Full Time,Evening,Whole Day,4500,4,27,417041280891,no,true,false,false
+197,9937371526,Dattawadi,Painter,true,18,Male,Full Time,Afternoon,Whole Day,8000,6,54,492947426880,no,false,false,false
+198,9512340482,Dattawadi,Plumber,true,39,Male,Part Time,Morning,Morning,10000,7,49,104226045858,yes,false,false,true
+199,7523885767,Dattawadi,Receptionist,false,27,Male,Full Time,Evening,Whole Day,2500,5,32,374701358949,no,true,false,true
+200,8053133538,Dattawadi,Security Guard,true,40,Male,Full Time,Afternoon,Whole Day,9000,9,49,888932217548,yes,false,false,false
+201,9245450740,Dattawadi,Tailor,true,32,Male,Full Time,Morning,Whole Day,5500,6,44,896533937442,no,true,false,true
+202,8260567784,Dattawadi,Waiter,false,22,Male,Part Time,Afternoon,Afternoon,10000,7,56,396952937685,no,false,false,true
+203,8532619216,Dattawadi,Waitress,true,21,Female,Full Time,Morning,Whole Day,3500,4,38,155252536825,no,true,false,false
+204,9659636305,Dattawadi,Worker,false,40,Male,Full Time,Afternoon,Whole Day,4000,3,33,884235399278,yes,false,false,true
+205,7278098973,Dattawadi,Salesperson,true,27,Female,Part Time,Evening,Evening,6000,10,49,789976030407,no,false,false,false
+206,8780200281,Dattawadi,Delivery Boy,false,27,Male,Full Time,Evening,Whole Day,3500,2,20,910789574925,yes,false,false,true
+207,9173341558,Dattawadi,Mechanic,true,40,Male,Part Time,Morning,Morning,3000,3,28,239624478806,yes,false,false,false
+208,9997547682,Deccan,Accountant,true,40,Female,Part Time,Evening,Evening,5500,9,53,908930630477,no,true,false,false
+209,7796566213,Deccan,Brick mason,false,27,Male,Part Time,Morning,Morning,7000,8,59,277142101767,no,true,false,true
+210,7479436841,Deccan,Carpenter,true,33,Male,Full Time,Afternoon,Whole Day,9500,8,40,103600373368,yes,false,false,true
+211,8353299880,Deccan,Cashier,true,39,Female,Full Time,Morning,Whole Day,3000,3,39,108508167604,no,false,false,true
+212,8518930749,Deccan,Childcare Worker,true,40,Female,Part Time,Morning,Morning,8500,8,47,111248570429,yes,false,false,false
+213,8124007459,Deccan,Cook,true,28,Male,Full Time,Afternoon,Whole Day,6000,9,46,815075770692,yes,false,false,false
+214,9090524856,Deccan,Driver,false,38,Male,Full Time,Evening,Whole Day,6500,8,53,377757130697,yes,false,false,true
+215,7335764557,Deccan,Electrician,false,20,Male,Part Time,Afternoon,Afternoon,2000,1,17,446336617331,yes,true,false,true
+216,8530693125,Deccan,Hairdresser,true,30,Female,Full Time,Morning,Whole Day,3500,4,35,287710651774,no,true,false,true
+217,8544361143,Deccan,Janitor,false,31,Male,Part Time,Afternoon,Afternoon,10000,7,56,286542257194,no,true,false,false
+218,7657889383,Deccan,Maid,true,35,Female,Part Time,Afternoon,Afternoon,9000,10,51,091683387635,yes,true,false,false
+219,8735226670,Deccan,Mehndi Artist,false,38,Female,Part Time,Evening,Evening,6500,9,52,086757006261,no,false,false,true
+220,8120328130,Deccan,Painter,true,37,Male,Full Time,Afternoon,Whole Day,8500,8,40,700851838986,no,false,false,true
+221,8267822731,Deccan,Plumber,true,24,Male,Full Time,Afternoon,Whole Day,7000,10,41,702003916226,yes,false,false,true
+222,8007954281,Deccan,Receptionist,false,23,Female,Part Time,Afternoon,Afternoon,5500,7,60,303647173533,no,false,false,true
+223,9136591849,Deccan,Security Guard,true,24,Male,Full Time,Afternoon,Whole Day,2500,2,6,763874910290,yes,true,false,true
+224,9311014203,Deccan,Tailor,false,27,Male,Full Time,Morning,Whole Day,2500,4,24,890371807170,no,false,false,false
+225,9930498761,Deccan,Waiter,true,34,Male,Part Time,Evening,Evening,5000,9,47,278056804004,no,true,false,true
+226,9066800086,Deccan,Waitress,true,33,Female,Part Time,Afternoon,Afternoon,9500,8,51,482898746069,no,true,false,true
+227,7836661527,Deccan,Worker,true,25,Male,Full Time,Afternoon,Whole Day,6000,6,52,553762947583,yes,false,false,false
+228,9197360986,Deccan,Salesperson,false,31,Female,Part Time,Afternoon,Afternoon,4000,1,18,234720964316,no,false,false,true
+229,9632478840,Deccan,Delivery Boy,true,23,Male,Part Time,Afternoon,Afternoon,2500,4,30,754067527375,yes,true,false,true
+230,7991430786,Deccan,Mechanic,false,27,Male,Full Time,Afternoon,Whole Day,8000,10,47,213688885242,yes,false,false,false
+231,8137041055,Dhankawadi,Accountant,true,27,Male,Full Time,Afternoon,Whole Day,7000,7,59,504144968838,no,true,false,false
+232,8641365748,Dhankawadi,Brick mason,true,29,Male,Part Time,Afternoon,Afternoon,2000,1,6,287920221802,no,true,false,false
+233,7166136967,Dhankawadi,Carpenter,true,26,Male,Part Time,Evening,Evening,4000,4,27,703565389666,yes,false,false,true
+234,9247107783,Dhankawadi,Cashier,false,32,Male,Full Time,Morning,Whole Day,9000,8,42,987346886968,no,true,false,false
+235,8018084249,Dhankawadi,Childcare Worker,false,21,Female,Part Time,Afternoon,Afternoon,8500,6,57,307878396942,yes,true,false,false
+236,9264198207,Dhankawadi,Cook,false,30,Male,Part Time,Evening,Evening,6500,6,43,676821298076,yes,false,false,true
+237,9247851630,Dhankawadi,Driver,false,38,Male,Full Time,Afternoon,Whole Day,7500,9,43,047460525541,yes,false,false,false
+238,7337320389,Dhankawadi,Electrician,true,30,Male,Part Time,Afternoon,Afternoon,5500,8,50,563729897694,yes,false,false,true
+239,9471616505,Dhankawadi,Hairdresser,false,22,Female,Full Time,Morning,Whole Day,5500,6,45,025830548517,no,false,false,true
+240,9327649011,Dhankawadi,Janitor,true,32,Male,Part Time,Morning,Morning,9000,7,41,860622685076,no,false,false,true
+241,7426959285,Dhankawadi,Maid,false,21,Female,Part Time,Afternoon,Afternoon,4500,2,14,116385932580,yes,true,false,false
+242,9749486699,Dhankawadi,Mehndi Artist,false,20,Female,Part Time,Evening,Evening,4000,1,14,780389730653,no,false,false,true
+243,8849862432,Dhankawadi,Painter,false,39,Male,Full Time,Afternoon,Whole Day,7000,9,60,760177658536,no,true,false,false
+244,8829401993,Dhankawadi,Plumber,true,19,Male,Full Time,Evening,Whole Day,9500,8,45,545391972428,yes,true,false,true
+245,8368589409,Dhankawadi,Receptionist,false,21,Female,Part Time,Morning,Morning,9500,8,45,831693811432,no,false,false,false
+246,9764378096,Dhankawadi,Security Guard,false,34,Male,Part Time,Evening,Evening,6500,6,55,606910983862,yes,true,false,true
+247,7420752921,Dhankawadi,Tailor,true,24,Male,Full Time,Morning,Whole Day,6500,6,41,214642437229,no,false,false,false
+248,7941123904,Dhankawadi,Waiter,false,21,Male,Full Time,Evening,Whole Day,3500,3,25,297027299116,no,true,false,false
+249,9278698553,Dhankawadi,Waitress,true,20,Female,Full Time,Afternoon,Whole Day,4500,4,30,421079431012,no,false,false,false
+250,9230525659,Dhankawadi,Worker,false,25,Male,Part Time,Afternoon,Afternoon,9500,10,43,369883645822,yes,true,false,false
+251,7698030222,Dhankawadi,Salesperson,false,33,Male,Full Time,Afternoon,Whole Day,3000,5,34,954466685524,no,true,false,false
+252,8424995405,Dhankawadi,Delivery Boy,false,20,Male,Full Time,Evening,Whole Day,4500,1,16,871081340122,yes,false,false,false
+253,7465830900,Dhankawadi,Mechanic,true,28,Male,Full Time,Afternoon,Whole Day,2000,5,37,705647764688,yes,true,false,true
+254,9513231014,Dhayari,Accountant,false,39,Male,Full Time,Morning,Whole Day,6500,10,48,653864661325,no,true,false,true
+255,8666407946,Dhayari,Brick mason,false,25,Male,Part Time,Afternoon,Afternoon,2500,5,31,497271379518,no,true,false,true
+256,9501322611,Dhayari,Carpenter,false,27,Male,Part Time,Afternoon,Afternoon,4500,1,17,131104098639,yes,true,false,false
+257,8940194060,Dhayari,Cashier,false,37,Male,Part Time,Afternoon,Afternoon,4000,4,28,861549773446,no,false,false,false
+258,8617829633,Dhayari,Childcare Worker,true,28,Female,Part Time,Afternoon,Afternoon,7000,6,58,185989440216,yes,false,false,false
+259,8050748846,Dhayari,Cook,false,31,Male,Full Time,Evening,Whole Day,4000,2,19,989774717241,yes,true,false,false
+260,9318393545,Dhayari,Driver,false,18,Male,Full Time,Morning,Whole Day,3000,4,37,588836571568,yes,false,false,true
+261,8279522832,Dhayari,Electrician,false,38,Male,Full Time,Morning,Whole Day,6000,8,43,065336938166,yes,false,false,true
+262,9034359701,Dhayari,Hairdresser,false,30,Female,Part Time,Morning,Morning,7500,8,40,846967914794,no,false,false,true
+263,9827936295,Dhayari,Janitor,false,37,Male,Part Time,Morning,Morning,10000,10,46,650035511287,no,false,false,false
+264,8608468739,Dhayari,Maid,true,24,Female,Full Time,Afternoon,Whole Day,7000,7,53,255006209643,yes,false,false,true
+265,9411304035,Dhayari,Mehndi Artist,true,19,Female,Part Time,Morning,Morning,2000,1,5,501530327600,no,false,false,true
+266,7878581206,Dhayari,Painter,false,22,Male,Full Time,Afternoon,Whole Day,7500,9,41,265866487313,no,true,false,false
+267,9947995414,Dhayari,Plumber,false,31,Male,Full Time,Morning,Whole Day,8000,8,44,502100766618,yes,true,false,false
+268,9519415668,Dhayari,Receptionist,false,19,Female,Part Time,Afternoon,Afternoon,2000,1,14,994867459958,no,true,false,false
+269,9965829849,Dhayari,Security Guard,false,24,Male,Full Time,Evening,Whole Day,3000,2,7,154521440984,yes,true,false,false
+270,9641569623,Dhayari,Tailor,false,35,Male,Full Time,Morning,Whole Day,4000,5,32,081973069389,no,true,false,true
+271,9213731865,Dhayari,Waiter,true,38,Male,Full Time,Afternoon,Whole Day,10000,10,53,414746777805,no,false,false,false
+272,7434712608,Dhayari,Waitress,true,18,Female,Full Time,Evening,Whole Day,5500,6,40,807199998257,no,true,false,false
+273,9108862416,Dhayari,Worker,true,22,Male,Part Time,Morning,Morning,8500,6,48,173781135052,yes,true,false,true
+274,7046241231,Dhayari,Salesperson,true,32,Female,Full Time,Morning,Whole Day,6000,6,47,563113375273,no,true,false,true
+275,7275325803,Dhayari,Delivery Boy,true,40,Male,Part Time,Morning,Morning,2500,4,28,631871121520,yes,false,false,false
+276,8566683933,Dhayari,Mechanic,false,27,Male,Part Time,Afternoon,Afternoon,7500,6,52,869738884978,yes,true,false,false
+277,8450405553,Dhole Patil Road,Accountant,false,24,Female,Full Time,Afternoon,Whole Day,8500,6,57,014758301065,no,false,false,true
+278,8333334523,Dhole Patil Road,Brick mason,false,19,Male,Part Time,Afternoon,Afternoon,3500,3,40,043149186406,no,false,false,false
+279,9513083579,Dhole Patil Road,Carpenter,true,21,Male,Full Time,Afternoon,Whole Day,6000,10,54,573899486339,yes,false,false,false
+280,8101579274,Dhole Patil Road,Cashier,true,20,Male,Full Time,Morning,Whole Day,6000,7,56,923676090972,no,false,false,false
+281,7928755765,Dhole Patil Road,Childcare Worker,true,19,Female,Part Time,Afternoon,Afternoon,7000,8,42,732316106918,yes,true,false,false
+282,9573454444,Dhole Patil Road,Cook,false,30,Male,Part Time,Afternoon,Afternoon,6000,8,54,499285668003,yes,true,false,true
+283,9512915422,Dhole Patil Road,Driver,true,29,Male,Full Time,Morning,Whole Day,3500,3,35,297580411623,yes,true,false,true
+284,8045453219,Dhole Patil Road,Electrician,true,22,Male,Part Time,Morning,Morning,4500,3,29,176633191338,yes,false,false,true
+285,8011894344,Dhole Patil Road,Hairdresser,true,30,Female,Part Time,Afternoon,Afternoon,9000,7,58,840474263479,no,true,false,false
+286,9047485625,Dhole Patil Road,Janitor,false,26,Male,Part Time,Evening,Evening,7000,7,52,387369266374,no,false,false,false
+287,7767691531,Dhole Patil Road,Maid,true,23,Female,Part Time,Morning,Morning,5500,6,49,978872932204,yes,false,false,false
+288,9433577328,Dhole Patil Road,Mehndi Artist,true,35,Female,Part Time,Afternoon,Afternoon,5500,6,50,066845916003,no,true,false,true
+289,7285204615,Dhole Patil Road,Painter,true,25,Male,Full Time,Afternoon,Whole Day,10000,9,54,905538085319,no,true,false,false
+290,7245035324,Dhole Patil Road,Plumber,false,22,Male,Part Time,Evening,Evening,8000,9,41,537239349319,yes,true,false,false
+291,9460290820,Dhole Patil Road,Receptionist,true,22,Male,Part Time,Afternoon,Afternoon,7500,7,41,119066103495,no,false,false,false
+292,9920201923,Dhole Patil Road,Security Guard,true,18,Male,Full Time,Evening,Whole Day,10000,6,46,382867812052,yes,false,false,false
+293,7062149344,Dhole Patil Road,Tailor,true,27,Male,Part Time,Afternoon,Afternoon,7500,6,54,130979086728,no,true,false,true
+294,9731164346,Dhole Patil Road,Waiter,false,20,Male,Part Time,Morning,Morning,2500,1,6,201347894170,no,false,false,false
+295,9483508311,Dhole Patil Road,Waitress,true,25,Female,Full Time,Evening,Whole Day,3500,5,26,571227357155,no,false,false,false
+296,7883411840,Dhole Patil Road,Worker,true,22,Male,Full Time,Evening,Whole Day,7500,6,54,685756559321,yes,true,false,true
+297,7670018545,Dhole Patil Road,Salesperson,true,32,Female,Part Time,Afternoon,Afternoon,2500,2,19,359609232946,no,true,false,true
+298,9568268394,Dhole Patil Road,Delivery Boy,false,33,Male,Part Time,Afternoon,Afternoon,7500,9,46,406811576422,yes,false,false,true
+299,9311239729,Dhole Patil Road,Mechanic,false,33,Male,Part Time,Evening,Evening,3500,4,28,927847255792,yes,true,false,true
+300,8680075353,Erandwane,Accountant,true,24,Male,Full Time,Afternoon,Whole Day,5500,6,56,744978761043,no,true,false,false
+301,8787767595,Erandwane,Brick mason,true,37,Male,Part Time,Afternoon,Afternoon,4000,1,5,292442171009,no,true,false,true
+302,7199701135,Erandwane,Carpenter,true,22,Male,Full Time,Morning,Whole Day,4000,2,12,636583822680,yes,false,false,true
+303,9531492000,Erandwane,Cashier,false,35,Female,Full Time,Evening,Whole Day,10000,10,57,703443506312,no,false,false,false
+304,9123042958,Erandwane,Childcare Worker,false,33,Female,Part Time,Evening,Evening,9000,9,46,067341099320,yes,false,false,false
+305,9759567643,Erandwane,Cook,true,28,Male,Part Time,Afternoon,Afternoon,5500,7,56,238653583794,yes,false,false,true
+306,9681352274,Erandwane,Driver,false,28,Male,Full Time,Morning,Whole Day,6500,10,42,568018404983,yes,false,false,true
+307,8508372725,Erandwane,Electrician,true,24,Male,Part Time,Afternoon,Afternoon,2500,4,28,484082610779,yes,false,false,true
+308,7195505868,Erandwane,Hairdresser,true,40,Female,Part Time,Morning,Morning,10000,10,59,613804575742,no,true,false,true
+309,7643975459,Erandwane,Janitor,true,25,Male,Part Time,Morning,Morning,9000,9,50,127598608085,no,false,false,true
+310,7923348468,Erandwane,Maid,false,31,Female,Part Time,Afternoon,Afternoon,6000,10,50,162486215415,yes,false,false,false
+311,8260623235,Erandwane,Mehndi Artist,true,25,Female,Part Time,Evening,Evening,7500,8,47,983041998218,no,true,false,false
+312,9193113958,Erandwane,Painter,true,22,Male,Part Time,Morning,Morning,9500,10,40,893455769153,no,true,false,true
+313,7285719172,Erandwane,Plumber,true,23,Male,Part Time,Evening,Evening,7500,10,51,044065179176,yes,true,false,false
+314,9340708041,Erandwane,Receptionist,true,27,Male,Part Time,Afternoon,Afternoon,8000,7,59,219658277375,no,false,false,false
+315,9873763565,Erandwane,Security Guard,true,36,Male,Part Time,Afternoon,Afternoon,4500,1,17,162738655209,yes,false,false,true
+316,8684145807,Erandwane,Tailor,true,34,Male,Full Time,Afternoon,Whole Day,7000,8,58,177202277683,no,false,false,false
+317,9873606872,Erandwane,Waiter,true,22,Male,Full Time,Evening,Whole Day,9000,7,55,396817046197,no,false,false,false
+318,7296686258,Erandwane,Waitress,false,31,Female,Part Time,Morning,Morning,4000,3,35,231198565888,no,true,false,false
+319,9831535588,Erandwane,Worker,false,40,Male,Full Time,Morning,Whole Day,5000,7,48,053056240875,yes,true,false,false
+320,8465797866,Erandwane,Salesperson,true,37,Male,Full Time,Afternoon,Whole Day,9000,8,60,459357607630,no,true,false,false
+321,9890173132,Erandwane,Delivery Boy,false,39,Male,Part Time,Evening,Evening,2500,2,6,121289202620,yes,true,false,false
+322,7792498243,Erandwane,Mechanic,false,21,Male,Part Time,Evening,Evening,4500,1,16,201548836694,yes,false,false,false
+323,9064333125,Ganeshkhind,Accountant,false,29,Female,Full Time,Evening,Whole Day,3000,4,40,115693321363,no,true,false,true
+324,7043259916,Ganeshkhind,Brick mason,true,26,Male,Part Time,Morning,Morning,6500,7,41,055129380484,no,true,false,true
+325,8239157480,Ganeshkhind,Carpenter,false,36,Male,Full Time,Afternoon,Whole Day,8500,6,44,578681106602,yes,false,false,false
+326,7897450042,Ganeshkhind,Cashier,false,35,Male,Full Time,Afternoon,Whole Day,5000,6,46,087542624049,no,true,false,true
+327,7756470233,Ganeshkhind,Childcare Worker,false,31,Female,Part Time,Morning,Morning,7500,10,44,694034705271,yes,true,false,false
+328,8459530911,Ganeshkhind,Cook,false,33,Male,Full Time,Morning,Whole Day,10000,6,44,418647181540,yes,false,false,false
+329,8549190263,Ganeshkhind,Driver,false,30,Male,Part Time,Afternoon,Afternoon,5500,6,44,405948348557,yes,false,false,true
+330,9016268740,Ganeshkhind,Electrician,false,27,Male,Full Time,Evening,Whole Day,5500,10,57,149275595738,yes,true,false,true
+331,9975405431,Ganeshkhind,Hairdresser,false,40,Female,Full Time,Morning,Whole Day,7500,6,53,481627086047,no,false,false,false
+332,9957045582,Ganeshkhind,Janitor,true,39,Male,Full Time,Morning,Whole Day,5500,10,55,906563792191,no,true,false,true
+333,9382070812,Ganeshkhind,Maid,true,25,Female,Full Time,Afternoon,Whole Day,7000,8,46,923107055012,yes,false,false,true
+334,8687629650,Ganeshkhind,Mehndi Artist,false,34,Female,Part Time,Morning,Morning,4500,2,16,736533440839,no,false,false,true
+335,8960267457,Ganeshkhind,Painter,false,22,Male,Full Time,Morning,Whole Day,5500,6,59,777170048900,no,true,false,false
+336,9486217123,Ganeshkhind,Plumber,false,24,Male,Part Time,Afternoon,Afternoon,4500,4,32,081794244349,yes,true,false,true
+337,8812433476,Ganeshkhind,Receptionist,false,33,Male,Part Time,Afternoon,Afternoon,9500,7,46,436371539939,no,false,false,false
+338,9701397892,Ganeshkhind,Security Guard,true,32,Male,Full Time,Afternoon,Whole Day,7000,10,55,410994334356,yes,false,false,true
+339,9839102813,Ganeshkhind,Tailor,true,37,Male,Part Time,Evening,Evening,4500,1,13,117134769865,no,false,false,false
+340,9130778980,Ganeshkhind,Waiter,true,35,Male,Part Time,Morning,Morning,3500,1,8,665969137081,no,false,false,false
+341,9457195569,Ganeshkhind,Waitress,false,32,Female,Part Time,Morning,Morning,2000,3,32,515289585484,no,false,false,false
+342,7826748075,Ganeshkhind,Worker,false,35,Male,Full Time,Evening,Whole Day,8000,6,59,052473815183,yes,false,false,false
+343,7016512762,Ganeshkhind,Salesperson,false,31,Female,Part Time,Afternoon,Afternoon,4000,5,27,944343798422,no,true,false,true
+344,7918216058,Ganeshkhind,Delivery Boy,true,20,Male,Full Time,Afternoon,Whole Day,9500,10,56,988403864313,yes,false,false,true
+345,8828120548,Ganeshkhind,Mechanic,false,36,Male,Full Time,Afternoon,Whole Day,3000,3,21,136049919000,yes,true,false,true
+346,8905791742,Ghorpadi,Accountant,true,27,Male,Part Time,Morning,Morning,6500,10,55,646340615583,no,false,false,true
+347,9853248433,Ghorpadi,Brick mason,false,23,Male,Part Time,Evening,Evening,2000,2,20,345328298804,no,false,false,true
+348,9028363590,Ghorpadi,Carpenter,false,37,Male,Part Time,Evening,Evening,6000,6,49,711271595678,yes,true,false,false
+349,9982671830,Ghorpadi,Cashier,false,27,Male,Full Time,Morning,Whole Day,6000,6,50,358180555554,no,false,false,false
+350,7495949301,Ghorpadi,Childcare Worker,true,35,Female,Full Time,Afternoon,Whole Day,8000,6,41,507868251450,yes,false,false,true
+351,9726992492,Ghorpadi,Cook,true,20,Male,Part Time,Evening,Evening,3500,4,33,922283757275,yes,false,false,false
+352,8102512072,Ghorpadi,Driver,false,30,Male,Part Time,Evening,Evening,4000,4,22,825260234188,yes,true,false,true
+353,9133608116,Ghorpadi,Electrician,false,33,Male,Part Time,Morning,Morning,3500,5,32,792739517961,yes,false,false,false
+354,8555563824,Ghorpadi,Hairdresser,false,38,Female,Full Time,Morning,Whole Day,6500,10,50,435241238865,no,true,false,false
+355,9158809305,Ghorpadi,Janitor,false,36,Male,Full Time,Evening,Whole Day,8000,10,41,786466127717,no,true,false,false
+356,9317736239,Ghorpadi,Maid,true,39,Female,Full Time,Morning,Whole Day,2000,3,34,295888688047,yes,true,false,false
+357,9909853513,Ghorpadi,Mehndi Artist,false,25,Female,Part Time,Afternoon,Afternoon,7000,6,50,420770659457,no,true,false,false
+358,9368613889,Ghorpadi,Painter,false,37,Male,Part Time,Afternoon,Afternoon,9000,7,44,109650453235,no,false,false,false
+359,9456976638,Ghorpadi,Plumber,true,32,Male,Part Time,Evening,Evening,7000,6,56,074689561385,yes,false,false,false
+360,7061164049,Ghorpadi,Receptionist,false,39,Male,Part Time,Evening,Evening,3000,3,20,946904222440,no,true,false,false
+361,9359255813,Ghorpadi,Security Guard,false,18,Male,Full Time,Morning,Whole Day,8500,7,60,013358776686,yes,false,false,true
+362,8343527681,Ghorpadi,Tailor,true,36,Male,Full Time,Morning,Whole Day,2000,5,32,308808016543,no,false,false,false
+363,9167274929,Ghorpadi,Waiter,false,20,Male,Part Time,Afternoon,Afternoon,2000,1,9,839486407171,no,true,false,true
+364,9933745029,Ghorpadi,Waitress,false,35,Female,Full Time,Morning,Whole Day,4000,5,38,238982941305,no,false,false,true
+365,7443345414,Ghorpadi,Worker,true,37,Male,Part Time,Morning,Morning,10000,10,46,729551919085,yes,false,false,false
+366,8564213153,Ghorpadi,Salesperson,false,20,Male,Part Time,Morning,Morning,9000,9,51,096265113406,no,true,false,false
+367,9121559941,Ghorpadi,Delivery Boy,false,33,Male,Full Time,Evening,Whole Day,8000,10,56,934030419871,yes,false,false,true
+368,9719546925,Ghorpadi,Mechanic,true,27,Male,Part Time,Afternoon,Afternoon,10000,9,59,807315009067,yes,true,false,false
+369,8010833939,Gultekdi,Accountant,true,28,Male,Part Time,Morning,Morning,8000,8,44,076168046885,no,true,false,false
+370,9584608791,Gultekdi,Brick mason,true,35,Male,Part Time,Morning,Morning,7000,8,57,579444791759,no,false,false,true
+371,9221706424,Gultekdi,Carpenter,true,21,Male,Full Time,Morning,Whole Day,5500,8,42,981127752209,yes,true,false,true
+372,9974977667,Gultekdi,Cashier,true,20,Male,Part Time,Afternoon,Afternoon,3000,3,20,062629740238,no,false,false,true
+373,7322650849,Gultekdi,Childcare Worker,true,40,Female,Part Time,Afternoon,Afternoon,6500,6,58,253546150116,yes,true,false,false
+374,8085404171,Gultekdi,Cook,false,40,Male,Part Time,Morning,Morning,5500,10,49,582985978792,yes,true,false,true
+375,9532220283,Gultekdi,Driver,true,34,Male,Part Time,Evening,Evening,6500,10,60,023261606426,yes,true,false,true
+376,9693135129,Gultekdi,Electrician,true,21,Male,Part Time,Afternoon,Afternoon,8000,6,52,936850458422,yes,true,false,false
+377,9512559266,Gultekdi,Hairdresser,false,20,Female,Full Time,Afternoon,Whole Day,7000,7,52,198386407000,no,true,false,true
+378,8430315735,Gultekdi,Janitor,true,27,Male,Part Time,Afternoon,Afternoon,10000,6,55,972188614061,no,true,false,false
+379,9623992861,Gultekdi,Maid,true,28,Female,Part Time,Morning,Morning,6000,8,42,034207795820,yes,true,false,false
+380,9754532429,Gultekdi,Mehndi Artist,true,37,Female,Full Time,Morning,Whole Day,4000,2,15,938335145119,no,false,false,true
+381,9232455047,Gultekdi,Painter,true,38,Male,Part Time,Morning,Morning,5500,8,55,026659449445,no,false,false,true
+382,9661929333,Gultekdi,Plumber,true,21,Male,Full Time,Afternoon,Whole Day,10000,7,55,885261073133,yes,true,false,true
+383,7577077797,Gultekdi,Receptionist,false,31,Female,Part Time,Morning,Morning,7000,8,49,064281439320,no,true,false,false
+384,8655282259,Gultekdi,Security Guard,false,34,Male,Part Time,Evening,Evening,8500,9,53,241150771967,yes,true,false,false
+385,8602028483,Gultekdi,Tailor,false,23,Male,Part Time,Morning,Morning,7000,9,40,848199768462,no,false,false,false
+386,8522029216,Gultekdi,Waiter,false,35,Male,Full Time,Morning,Whole Day,2500,2,17,243714165882,no,false,false,true
+387,7936489058,Gultekdi,Waitress,true,34,Female,Part Time,Evening,Evening,9000,10,59,523761213629,no,false,false,true
+388,8346289466,Gultekdi,Worker,true,21,Male,Part Time,Evening,Evening,10000,6,45,435162032294,yes,true,false,true
+389,9447597547,Gultekdi,Salesperson,true,21,Male,Part Time,Morning,Morning,5500,9,43,584742587273,no,true,false,true
+390,9707370639,Gultekdi,Delivery Boy,true,23,Male,Part Time,Afternoon,Afternoon,6000,9,60,872861069809,yes,true,false,false
+391,9291365579,Gultekdi,Mechanic,true,28,Male,Part Time,Morning,Morning,5500,10,55,807865719587,yes,false,false,false
+392,9014847363,Hadapsar,Accountant,true,32,Female,Full Time,Evening,Whole Day,4000,4,31,300194953590,no,true,false,true
+393,8874790454,Hadapsar,Brick mason,true,19,Male,Full Time,Afternoon,Whole Day,6000,9,59,798256578148,no,true,false,true
+394,9752828873,Hadapsar,Carpenter,true,18,Male,Full Time,Morning,Whole Day,6500,8,56,555310767343,yes,true,false,false
+395,9677359396,Hadapsar,Cashier,true,22,Female,Part Time,Afternoon,Afternoon,3000,3,37,672877035360,no,false,false,false
+396,9087489188,Hadapsar,Childcare Worker,true,37,Female,Part Time,Evening,Evening,7500,10,59,169381310481,yes,false,false,true
+397,8776558339,Hadapsar,Cook,true,32,Male,Full Time,Afternoon,Whole Day,8000,9,54,941521816403,yes,false,false,false
+398,8848026524,Hadapsar,Driver,false,38,Male,Full Time,Morning,Whole Day,9000,8,49,445535977093,yes,true,false,false
+399,8095457401,Hadapsar,Electrician,false,20,Male,Full Time,Evening,Whole Day,8000,7,44,567615861868,yes,true,false,true
+400,9160927022,Hadapsar,Hairdresser,false,39,Female,Full Time,Afternoon,Whole Day,9500,9,42,584234658238,no,true,false,false
+401,7478776731,Hadapsar,Janitor,true,18,Male,Part Time,Evening,Evening,3500,1,8,485838957368,no,true,false,false
+402,8439436765,Hadapsar,Maid,true,27,Female,Part Time,Morning,Morning,9000,6,46,276450154510,yes,true,false,false
+403,8712188502,Hadapsar,Mehndi Artist,true,18,Female,Part Time,Afternoon,Afternoon,7500,7,44,115865037597,no,true,false,true
+404,8649617605,Hadapsar,Painter,true,21,Male,Full Time,Afternoon,Whole Day,2000,5,37,377962292572,no,true,false,false
+405,9033825425,Hadapsar,Plumber,true,33,Male,Part Time,Afternoon,Afternoon,3000,2,8,793670409069,yes,false,false,true
+406,9532193244,Hadapsar,Receptionist,true,33,Male,Part Time,Evening,Evening,2500,2,16,083197981758,no,false,false,false
+407,9041787183,Hadapsar,Security Guard,true,30,Male,Part Time,Afternoon,Afternoon,2500,3,20,500373968675,yes,false,false,false
+408,9229252082,Hadapsar,Tailor,false,23,Male,Full Time,Morning,Whole Day,7000,8,60,247086851006,no,false,false,true
+409,8680729384,Hadapsar,Waiter,true,21,Male,Full Time,Afternoon,Whole Day,2500,2,11,444786186485,no,true,false,false
+410,9807256918,Hadapsar,Waitress,false,40,Female,Part Time,Morning,Morning,6000,10,53,069994279873,no,false,false,false
+411,9813499761,Hadapsar,Worker,false,38,Male,Full Time,Morning,Whole Day,7500,6,56,168347590916,yes,false,false,true
+412,8060611384,Hadapsar,Salesperson,false,25,Female,Part Time,Morning,Morning,5500,9,46,872828780713,no,true,false,true
+413,9540313584,Hadapsar,Delivery Boy,true,18,Male,Full Time,Morning,Whole Day,3500,4,31,698315933174,yes,true,false,false
+414,7124906174,Hadapsar,Mechanic,true,22,Male,Full Time,Afternoon,Whole Day,5500,10,45,523036427954,yes,true,false,true
+415,9480240283,Hinjewadi,Accountant,false,27,Female,Part Time,Morning,Morning,10000,9,40,372911719044,no,true,false,true
+416,9911630126,Hinjewadi,Brick mason,false,27,Male,Full Time,Evening,Whole Day,10000,7,51,244680929448,no,false,false,false
+417,9521870628,Hinjewadi,Carpenter,true,25,Male,Part Time,Morning,Morning,3000,4,31,285620945846,yes,false,false,true
+418,9152791877,Hinjewadi,Cashier,false,34,Male,Part Time,Evening,Evening,6500,7,49,625645419310,no,false,false,false
+419,9115626361,Hinjewadi,Childcare Worker,false,33,Female,Part Time,Evening,Evening,6000,8,59,062408701607,yes,false,false,true
+420,9922795694,Hinjewadi,Cook,false,33,Male,Part Time,Evening,Evening,5000,10,54,588444769162,yes,true,false,true
+421,7590663665,Hinjewadi,Driver,true,34,Male,Part Time,Morning,Morning,9500,7,50,701877342569,yes,false,false,true
+422,7196453748,Hinjewadi,Electrician,true,21,Male,Full Time,Morning,Whole Day,9500,10,54,323902267668,yes,true,false,true
+423,8945639158,Hinjewadi,Hairdresser,false,24,Female,Part Time,Evening,Evening,4500,3,39,055165843086,no,false,false,true
+424,9611640681,Hinjewadi,Janitor,true,31,Male,Part Time,Morning,Morning,9000,8,43,741078393073,no,false,false,false
+425,8161532971,Hinjewadi,Maid,false,21,Female,Full Time,Evening,Whole Day,8000,6,59,261485163241,yes,false,false,true
+426,7110610897,Hinjewadi,Mehndi Artist,true,29,Female,Part Time,Afternoon,Afternoon,7500,6,60,562393761976,no,false,false,false
+427,7661585452,Hinjewadi,Painter,false,24,Male,Full Time,Evening,Whole Day,6500,8,47,061825214473,no,false,false,false
+428,8919567131,Hinjewadi,Plumber,true,23,Male,Full Time,Afternoon,Whole Day,8000,10,48,908555930213,yes,true,false,true
+429,9135841317,Hinjewadi,Receptionist,true,31,Male,Part Time,Evening,Evening,3000,4,36,272860669694,no,false,false,false
+430,7169203068,Hinjewadi,Security Guard,false,22,Male,Full Time,Afternoon,Whole Day,7000,6,55,966730992059,yes,true,false,true
+431,9200535259,Hinjewadi,Tailor,false,33,Male,Part Time,Evening,Evening,6500,10,58,636713818474,no,true,false,false
+432,9815008395,Hinjewadi,Waiter,false,27,Male,Part Time,Morning,Morning,4000,5,29,715761613615,no,false,false,false
+433,9248119795,Hinjewadi,Waitress,true,40,Female,Full Time,Evening,Whole Day,7500,9,42,507955913585,no,true,false,true
+434,8658361096,Hinjewadi,Worker,false,33,Male,Part Time,Evening,Evening,7000,7,46,540550039123,yes,false,false,false
+435,9686162095,Hinjewadi,Salesperson,true,29,Male,Full Time,Afternoon,Whole Day,9500,9,56,760138805556,no,false,false,true
+436,9936768566,Hinjewadi,Delivery Boy,false,36,Male,Full Time,Morning,Whole Day,4500,3,20,632826012032,yes,false,false,false
+437,7944977980,Hinjewadi,Mechanic,true,26,Male,Full Time,Evening,Whole Day,4000,3,29,295762732134,yes,true,false,true
+438,8220309945,Katraj,Accountant,false,38,Male,Part Time,Morning,Morning,6000,6,59,812383371630,no,false,false,false
+439,9546620303,Katraj,Brick mason,true,22,Male,Full Time,Evening,Whole Day,9000,7,51,235794039910,no,true,false,true
+440,9707525840,Katraj,Carpenter,true,36,Male,Full Time,Afternoon,Whole Day,9000,9,44,631541133892,yes,false,false,true
+441,9742764443,Katraj,Cashier,false,25,Male,Full Time,Morning,Whole Day,6000,6,52,288994285159,no,false,false,false
+442,7681371780,Katraj,Childcare Worker,true,32,Female,Full Time,Afternoon,Whole Day,8000,10,47,420539025477,yes,false,false,false
+443,8333333878,Katraj,Cook,true,40,Male,Part Time,Afternoon,Afternoon,8000,10,44,452689617701,yes,false,false,false
+444,9640915982,Katraj,Driver,false,35,Male,Full Time,Evening,Whole Day,2500,3,36,417499569430,yes,false,false,false
+445,9058174325,Katraj,Electrician,false,26,Male,Part Time,Afternoon,Afternoon,6000,10,56,352811172675,yes,true,false,false
+446,9228287002,Katraj,Hairdresser,false,28,Female,Part Time,Evening,Evening,4000,1,15,765446187813,no,false,false,false
+447,8697394837,Katraj,Janitor,false,23,Male,Part Time,Afternoon,Afternoon,5000,7,53,973179638425,no,false,false,false
+448,9954487795,Katraj,Maid,true,37,Female,Full Time,Morning,Whole Day,8000,9,53,193264724929,yes,false,false,true
+449,8231744569,Katraj,Mehndi Artist,false,30,Female,Full Time,Evening,Whole Day,2500,1,6,115607272120,no,false,false,true
+450,8352535123,Katraj,Painter,false,28,Male,Full Time,Morning,Whole Day,10000,9,57,145105468147,no,true,false,false
+451,7054623531,Katraj,Plumber,true,33,Male,Part Time,Evening,Evening,6000,7,50,721968154046,yes,false,false,false
+452,9606827834,Katraj,Receptionist,true,31,Male,Full Time,Morning,Whole Day,7000,8,56,099361010526,no,false,false,false
+453,8996714182,Katraj,Security Guard,true,32,Male,Part Time,Evening,Evening,5000,6,51,815820828937,yes,false,false,true
+454,8887535648,Katraj,Tailor,true,33,Male,Part Time,Afternoon,Afternoon,10000,6,55,595604613473,no,true,false,false
+455,9040115013,Katraj,Waiter,false,31,Male,Full Time,Afternoon,Whole Day,4000,4,28,921574097879,no,false,false,true
+456,9082160047,Katraj,Waitress,true,27,Female,Part Time,Afternoon,Afternoon,10000,7,56,333722527710,no,true,false,false
+457,7744467799,Katraj,Worker,true,25,Male,Full Time,Evening,Whole Day,3000,5,28,070580335143,yes,false,false,false
+458,7086635566,Katraj,Salesperson,true,26,Female,Part Time,Morning,Morning,5500,7,47,123978656998,no,false,false,true
+459,9599155485,Katraj,Delivery Boy,false,19,Male,Full Time,Afternoon,Whole Day,9500,7,51,900260343383,yes,true,false,false
+460,7210008166,Katraj,Mechanic,false,23,Male,Full Time,Morning,Whole Day,3500,4,23,176349846398,yes,true,false,true
+461,7370534583,Khadki,Accountant,false,28,Male,Full Time,Evening,Whole Day,10000,10,45,753233997786,no,false,false,true
+462,9013629029,Khadki,Brick mason,true,37,Male,Part Time,Morning,Morning,5500,10,52,556367696554,no,true,false,false
+463,9637645542,Khadki,Carpenter,false,33,Male,Part Time,Morning,Morning,2500,4,40,891411079684,yes,false,false,true
+464,8048936117,Khadki,Cashier,false,32,Female,Full Time,Evening,Whole Day,4000,5,32,358525419312,no,false,false,true
+465,9470914272,Khadki,Childcare Worker,true,27,Female,Full Time,Morning,Whole Day,9500,8,50,088712215234,yes,true,false,true
+466,9101555247,Khadki,Cook,false,21,Male,Part Time,Evening,Evening,3000,2,19,940587127762,yes,true,false,false
+467,7056812852,Khadki,Driver,false,32,Male,Full Time,Morning,Whole Day,6000,6,51,981689369959,yes,true,false,false
+468,7812421901,Khadki,Electrician,true,30,Male,Full Time,Evening,Whole Day,7500,6,59,361605873390,yes,false,false,true
+469,9623122468,Khadki,Hairdresser,false,34,Female,Part Time,Morning,Morning,6000,6,57,413073672201,no,true,false,true
+470,8340456363,Khadki,Janitor,false,26,Male,Part Time,Evening,Evening,10000,10,43,749158302492,no,false,false,true
+471,9298255077,Khadki,Maid,true,38,Female,Part Time,Morning,Morning,8500,10,47,643211858799,yes,true,false,true
+472,8256308009,Khadki,Mehndi Artist,true,36,Female,Full Time,Morning,Whole Day,7500,9,49,587037136287,no,false,false,true
+473,7695659903,Khadki,Painter,true,21,Male,Full Time,Morning,Whole Day,4000,3,32,690847643359,no,false,false,true
+474,8244266770,Khadki,Plumber,false,28,Male,Part Time,Morning,Morning,5000,8,53,552539958567,yes,false,false,true
+475,9296190918,Khadki,Receptionist,false,22,Male,Full Time,Evening,Whole Day,9500,9,59,993620808264,no,false,false,false
+476,9922106813,Khadki,Security Guard,false,21,Male,Part Time,Morning,Morning,9000,6,49,959243354448,yes,true,false,true
+477,8109506848,Khadki,Tailor,true,35,Male,Full Time,Morning,Whole Day,5000,7,43,256843647417,no,false,false,false
+478,9312237706,Khadki,Waiter,true,27,Male,Full Time,Evening,Whole Day,10000,8,41,664042711265,no,true,false,false
+479,9225194309,Khadki,Waitress,false,34,Female,Part Time,Evening,Evening,3000,1,16,870168912503,no,false,false,true
+480,9096211423,Khadki,Worker,false,32,Male,Part Time,Afternoon,Afternoon,3500,3,32,844365374957,yes,false,false,true
+481,8119541537,Khadki,Salesperson,false,19,Male,Full Time,Morning,Whole Day,8500,9,49,463215547178,no,false,false,false
+482,8175699333,Khadki,Delivery Boy,true,24,Male,Part Time,Morning,Morning,8500,10,59,460949632272,yes,false,false,false
+483,9773206692,Khadki,Mechanic,true,36,Male,Part Time,Afternoon,Afternoon,7000,9,43,035886701257,yes,true,false,true
+484,9207913894,Kharadi,Accountant,false,18,Male,Full Time,Morning,Whole Day,2000,3,28,428372796218,no,false,false,false
+485,8578532599,Kharadi,Brick mason,false,35,Male,Part Time,Evening,Evening,4000,1,7,333998061471,no,false,false,false
+486,9349146301,Kharadi,Carpenter,false,34,Male,Full Time,Morning,Whole Day,4500,4,21,600743754303,yes,true,false,true
+487,7720476765,Kharadi,Cashier,false,38,Female,Full Time,Evening,Whole Day,4000,4,40,481873480599,no,false,false,false
+488,7604520385,Kharadi,Childcare Worker,false,18,Female,Part Time,Evening,Evening,10000,6,55,035677034822,yes,false,false,false
+489,7473850476,Kharadi,Cook,true,19,Male,Full Time,Evening,Whole Day,5500,8,49,776936106516,yes,false,false,false
+490,9013113263,Kharadi,Driver,true,38,Male,Part Time,Afternoon,Afternoon,4000,5,39,553111419469,yes,true,false,true
+491,8529384831,Kharadi,Electrician,false,29,Male,Part Time,Morning,Morning,4500,5,26,381181880244,yes,false,false,false
+492,8753669120,Kharadi,Hairdresser,true,21,Female,Part Time,Afternoon,Afternoon,7500,9,40,991530466681,no,false,false,true
+493,7553342839,Kharadi,Janitor,true,40,Male,Part Time,Morning,Morning,7000,9,51,819825546943,no,false,false,false
+494,8425419012,Kharadi,Maid,false,23,Female,Full Time,Afternoon,Whole Day,8500,10,60,891635185449,yes,false,false,true
+495,8015835241,Kharadi,Mehndi Artist,false,33,Female,Full Time,Afternoon,Whole Day,8000,7,44,178132448329,no,false,false,false
+496,9720881623,Kharadi,Painter,false,18,Male,Full Time,Evening,Whole Day,5000,10,40,187202328970,no,true,false,true
+497,7601152243,Kharadi,Plumber,false,33,Male,Full Time,Morning,Whole Day,10000,6,47,166540612533,yes,false,false,true
+498,9600549546,Kharadi,Receptionist,true,36,Male,Full Time,Afternoon,Whole Day,4500,5,27,097221186894,no,true,false,true
+499,9926751967,Kharadi,Security Guard,false,36,Male,Full Time,Evening,Whole Day,6500,7,55,471432542228,yes,false,false,true
+500,7874917086,Kharadi,Tailor,true,34,Male,Part Time,Morning,Morning,8000,10,52,054505671625,no,true,false,true
+501,9051419677,Kharadi,Waiter,true,22,Male,Full Time,Evening,Whole Day,3500,3,24,006325411484,no,false,false,true
+502,9834181546,Kharadi,Waitress,false,18,Female,Full Time,Morning,Whole Day,9500,7,53,800062079585,no,true,false,true
+503,8479760141,Kharadi,Worker,true,30,Male,Full Time,Morning,Whole Day,7500,7,50,703950726619,yes,true,false,true
+504,9309966739,Kharadi,Salesperson,false,37,Female,Part Time,Morning,Morning,2500,2,19,593392885471,no,false,false,true
+505,7468992138,Kharadi,Delivery Boy,true,25,Male,Part Time,Morning,Morning,4500,5,32,985213278254,yes,false,false,false
+506,9836184500,Kharadi,Mechanic,false,27,Male,Full Time,Morning,Whole Day,10000,10,60,161936394830,yes,true,false,false
+507,7046712777,Khadakwasla,Accountant,false,21,Female,Part Time,Evening,Evening,7500,6,57,705411974833,no,true,false,true
+508,8025655062,Khadakwasla,Brick mason,true,27,Male,Full Time,Evening,Whole Day,2000,2,5,985149644328,no,false,false,true
+509,7860725828,Khadakwasla,Carpenter,false,27,Male,Full Time,Afternoon,Whole Day,2000,4,35,467712939145,yes,true,false,false
+510,9108973702,Khadakwasla,Cashier,true,29,Male,Part Time,Morning,Morning,8500,7,40,807750889066,no,true,false,true
+511,9032481491,Khadakwasla,Childcare Worker,false,32,Female,Part Time,Evening,Evening,2000,3,22,068902177546,yes,true,false,true
+512,9774669557,Khadakwasla,Cook,false,33,Male,Part Time,Afternoon,Afternoon,5000,7,42,889384383728,yes,true,false,false
+513,9550331129,Khadakwasla,Driver,true,21,Male,Full Time,Evening,Whole Day,6500,7,43,640862541359,yes,true,false,false
+514,7834142519,Khadakwasla,Electrician,true,23,Male,Part Time,Afternoon,Afternoon,3000,4,27,873247618671,yes,true,false,false
+515,8736560338,Khadakwasla,Hairdresser,true,28,Female,Full Time,Afternoon,Whole Day,4500,3,21,123145501578,no,true,false,false
+516,8172685644,Khadakwasla,Janitor,false,28,Male,Full Time,Afternoon,Whole Day,6000,10,40,397277784483,no,false,false,false
+517,8565839127,Khadakwasla,Maid,true,25,Female,Full Time,Afternoon,Whole Day,6000,10,52,425227456071,yes,false,false,false
+518,7369261320,Khadakwasla,Mehndi Artist,true,29,Female,Part Time,Evening,Evening,6000,9,51,913366243558,no,false,false,true
+519,7737785746,Khadakwasla,Painter,true,38,Male,Part Time,Evening,Evening,8500,9,59,201710603871,no,true,false,true
+520,8700569836,Khadakwasla,Plumber,false,29,Male,Full Time,Afternoon,Whole Day,7500,8,47,914799747159,yes,false,false,false
+521,8418529710,Khadakwasla,Receptionist,true,24,Female,Part Time,Afternoon,Afternoon,2000,2,19,828035022007,no,true,false,false
+522,9253180313,Khadakwasla,Security Guard,true,35,Male,Full Time,Afternoon,Whole Day,4000,5,32,511082693034,yes,false,false,true
+523,9524033705,Khadakwasla,Tailor,false,29,Male,Full Time,Afternoon,Whole Day,6500,6,55,749479576688,no,true,false,true
+524,9211411321,Khadakwasla,Waiter,false,35,Male,Full Time,Morning,Whole Day,6000,8,50,451944811363,no,false,false,true
+525,9203885302,Khadakwasla,Waitress,true,23,Female,Part Time,Morning,Morning,6000,7,57,651503005732,no,true,false,false
+526,9033828779,Khadakwasla,Worker,true,32,Male,Part Time,Afternoon,Afternoon,8500,9,52,777607721640,yes,true,false,true
+527,7216846836,Khadakwasla,Salesperson,false,29,Female,Full Time,Afternoon,Whole Day,4500,5,39,590742329669,no,true,false,true
+528,8017035449,Khadakwasla,Delivery Boy,false,33,Male,Part Time,Afternoon,Afternoon,7000,9,43,285587979171,yes,true,false,false
+529,8995341072,Khadakwasla,Mechanic,false,27,Male,Full Time,Afternoon,Whole Day,8000,8,60,696110199836,yes,true,false,false
+530,8073144267,Fursungi,Accountant,true,20,Female,Part Time,Evening,Evening,2500,5,40,516412781632,no,true,false,false
+531,8018536541,Fursungi,Brick mason,true,21,Male,Part Time,Afternoon,Afternoon,3000,3,22,979363433573,no,true,false,false
+532,7906397261,Fursungi,Carpenter,true,24,Male,Part Time,Morning,Morning,3500,4,29,968441191505,yes,false,false,false
+533,8625780308,Fursungi,Cashier,false,28,Female,Full Time,Evening,Whole Day,6500,6,42,585271303555,no,false,false,false
+534,9607036004,Fursungi,Childcare Worker,true,38,Female,Full Time,Evening,Whole Day,9000,10,57,903479658006,yes,true,false,false
+535,9737292619,Fursungi,Cook,false,29,Male,Part Time,Afternoon,Afternoon,5500,9,44,575098367415,yes,true,false,true
+536,8187325859,Fursungi,Driver,true,21,Male,Part Time,Morning,Morning,3000,3,34,079674829218,yes,false,false,false
+537,9785451289,Fursungi,Electrician,true,40,Male,Full Time,Evening,Whole Day,7500,9,57,745301429613,yes,true,false,false
+538,9191248918,Fursungi,Hairdresser,false,28,Female,Part Time,Afternoon,Afternoon,9000,6,41,329914425250,no,true,false,true
+539,8988627130,Fursungi,Janitor,true,29,Male,Part Time,Evening,Evening,2500,4,27,648234333790,no,false,false,false
+540,9246425372,Fursungi,Maid,true,34,Female,Full Time,Evening,Whole Day,9000,8,57,484370392596,yes,true,false,false
+541,8149508272,Fursungi,Mehndi Artist,false,37,Female,Full Time,Morning,Whole Day,3500,3,39,816342236376,no,false,false,false
+542,9606278488,Fursungi,Painter,true,30,Male,Part Time,Evening,Evening,8000,6,43,612232369291,no,true,false,true
+543,8117868323,Fursungi,Plumber,true,23,Male,Full Time,Afternoon,Whole Day,4000,1,9,011772804178,yes,true,false,false
+544,7109470540,Fursungi,Receptionist,true,20,Female,Part Time,Morning,Morning,4500,5,25,189489291340,no,true,false,false
+545,9667017718,Fursungi,Security Guard,true,21,Male,Part Time,Evening,Evening,6500,8,59,829376587088,yes,true,false,false
+546,8519879132,Fursungi,Tailor,true,19,Male,Part Time,Evening,Evening,3000,2,18,621365716306,no,true,false,false
+547,9695725685,Fursungi,Waiter,false,37,Male,Part Time,Evening,Evening,10000,9,58,182512718996,no,true,false,false
+548,7306206304,Fursungi,Waitress,true,24,Female,Full Time,Afternoon,Whole Day,3000,5,24,051678459891,no,false,false,false
+549,9051139444,Fursungi,Worker,true,32,Male,Full Time,Evening,Whole Day,7500,9,52,642257619739,yes,false,false,true
+550,9611503201,Fursungi,Salesperson,false,31,Female,Full Time,Evening,Whole Day,2500,1,6,738700851401,no,true,false,true
+551,9689024346,Fursungi,Delivery Boy,true,24,Male,Full Time,Evening,Whole Day,10000,10,54,191726753649,yes,true,false,true
+552,9066319833,Fursungi,Mechanic,false,32,Male,Part Time,Evening,Evening,9500,8,51,364809576177,yes,false,false,false
+553,9727314019,Fatimanagar,Accountant,false,24,Female,Full Time,Evening,Whole Day,9500,8,50,681536688977,no,false,false,false
+554,8799919604,Fatimanagar,Brick mason,true,29,Male,Full Time,Morning,Whole Day,5500,7,57,767808222339,no,true,false,false
+555,9582866909,Fatimanagar,Carpenter,true,31,Male,Full Time,Morning,Whole Day,8000,6,54,257877145006,yes,false,false,false
+556,7962198363,Fatimanagar,Cashier,true,27,Male,Full Time,Evening,Whole Day,7000,10,49,795002763725,no,false,false,false
+557,9839318150,Fatimanagar,Childcare Worker,false,32,Female,Part Time,Morning,Morning,7500,10,52,726353181349,yes,true,false,true
+558,9562026455,Fatimanagar,Cook,true,37,Male,Full Time,Afternoon,Whole Day,10000,6,56,559878336864,yes,true,false,true
+559,9101558256,Fatimanagar,Driver,false,38,Male,Part Time,Morning,Morning,2500,2,15,337946046506,yes,false,false,false
+560,8266821083,Fatimanagar,Electrician,false,18,Male,Part Time,Afternoon,Afternoon,3000,3,33,166110177619,yes,true,false,true
+561,9906331471,Fatimanagar,Hairdresser,false,37,Female,Full Time,Afternoon,Whole Day,6000,6,48,657778212679,no,false,false,false
+562,7495734127,Fatimanagar,Janitor,false,27,Male,Full Time,Afternoon,Whole Day,5500,10,49,954169694818,no,true,false,false
+563,9759094058,Fatimanagar,Maid,false,22,Female,Full Time,Evening,Whole Day,6000,7,48,547081989855,yes,false,false,true
+564,9037240199,Fatimanagar,Mehndi Artist,false,22,Female,Full Time,Morning,Whole Day,8500,8,46,612474377186,no,true,false,false
+565,9697775505,Fatimanagar,Painter,true,26,Male,Full Time,Morning,Whole Day,3500,4,30,157618430051,no,true,false,false
+566,8680699504,Fatimanagar,Plumber,false,38,Male,Part Time,Evening,Evening,9000,6,44,978022995691,yes,false,false,true
+567,9836869147,Fatimanagar,Receptionist,false,21,Female,Part Time,Evening,Evening,6000,9,59,462027634643,no,true,false,false
+568,7549023947,Fatimanagar,Security Guard,true,39,Male,Part Time,Evening,Evening,2000,2,9,435675364672,yes,false,false,true
+569,8263905520,Fatimanagar,Tailor,true,20,Male,Full Time,Morning,Whole Day,4500,2,12,790730558888,no,true,false,false
+570,8952391883,Fatimanagar,Waiter,false,30,Male,Part Time,Evening,Evening,2500,4,30,070767425448,no,false,false,false
+571,9592710663,Fatimanagar,Waitress,false,32,Female,Full Time,Evening,Whole Day,6000,9,59,731981024475,no,false,false,true
+572,9837972576,Fatimanagar,Worker,false,27,Male,Full Time,Morning,Whole Day,6000,10,51,968485639076,yes,true,false,true
+573,8490702057,Fatimanagar,Salesperson,false,30,Female,Full Time,Morning,Whole Day,6500,10,51,173145925928,no,true,false,true
+574,9324333564,Fatimanagar,Delivery Boy,true,39,Male,Part Time,Morning,Morning,8500,9,60,045896987309,yes,false,false,false
+575,8391120805,Fatimanagar,Mechanic,false,32,Male,Part Time,Afternoon,Afternoon,7000,10,46,134476918138,yes,false,false,true
+576,8408166685,Kondhwa,Accountant,true,35,Female,Full Time,Morning,Whole Day,2500,4,29,492547326245,no,true,false,true
+577,9052145047,Kondhwa,Brick mason,true,38,Male,Part Time,Morning,Morning,7500,7,52,904268682275,no,true,false,true
+578,9157101884,Kondhwa,Carpenter,true,21,Male,Full Time,Evening,Whole Day,8000,7,59,138058884477,yes,false,false,true
+579,7401570110,Kondhwa,Cashier,true,21,Female,Part Time,Afternoon,Afternoon,5000,8,60,645508428004,no,true,false,false
+580,7236151727,Kondhwa,Childcare Worker,true,37,Female,Part Time,Evening,Evening,5500,10,40,350077475702,yes,false,false,false
+581,8294384684,Kondhwa,Cook,true,35,Male,Part Time,Evening,Evening,8500,7,50,918657032947,yes,true,false,true
+582,7581313252,Kondhwa,Driver,false,29,Male,Part Time,Afternoon,Afternoon,5000,9,43,538203680195,yes,true,false,true
+583,9449316089,Kondhwa,Electrician,false,19,Male,Full Time,Morning,Whole Day,2000,4,21,208084002701,yes,false,false,false
+584,7430307542,Kondhwa,Hairdresser,false,27,Female,Part Time,Evening,Evening,8500,7,46,935361634928,no,false,false,false
+585,7680316592,Kondhwa,Janitor,true,33,Male,Full Time,Evening,Whole Day,8000,6,56,267126196658,no,false,false,true
+586,7972683905,Kondhwa,Maid,true,26,Female,Full Time,Afternoon,Whole Day,5500,7,51,970505871612,yes,true,false,true
+587,7964895968,Kondhwa,Mehndi Artist,false,23,Female,Part Time,Evening,Evening,9500,8,53,035363095342,no,false,false,true
+588,9448341318,Kondhwa,Painter,false,30,Male,Part Time,Afternoon,Afternoon,2000,5,20,521232919120,no,false,false,false
+589,9284880255,Kondhwa,Plumber,true,28,Male,Full Time,Evening,Whole Day,6500,6,53,412719395707,yes,false,false,false
+590,9241036250,Kondhwa,Receptionist,false,39,Male,Part Time,Morning,Morning,9000,7,47,307831077408,no,false,false,true
+591,9356430739,Kondhwa,Security Guard,false,34,Male,Part Time,Afternoon,Afternoon,2000,2,16,305443980364,yes,true,false,false
+592,9027061951,Kondhwa,Tailor,true,27,Male,Part Time,Morning,Morning,5500,9,41,736581721111,no,true,false,false
+593,7040497673,Kondhwa,Waiter,false,20,Male,Full Time,Morning,Whole Day,5000,6,58,289076778827,no,true,false,false
+594,9176739611,Kondhwa,Waitress,true,37,Female,Full Time,Morning,Whole Day,5000,7,40,524597675058,no,true,false,false
+595,8559267368,Kondhwa,Worker,false,27,Male,Full Time,Afternoon,Whole Day,8000,9,59,938230702401,yes,true,false,false
+596,7808581986,Kondhwa,Salesperson,false,25,Female,Full Time,Afternoon,Whole Day,10000,6,54,399799246309,no,true,false,true
+597,9547064768,Kondhwa,Delivery Boy,true,31,Male,Part Time,Afternoon,Afternoon,7000,8,59,834774679495,yes,true,false,false
+598,9171702262,Kondhwa,Mechanic,false,39,Male,Part Time,Afternoon,Afternoon,3500,2,9,072391828661,yes,true,false,false
+599,9897375669,Koregaon Park,Accountant,false,24,Male,Part Time,Evening,Evening,7000,10,41,058542115611,no,true,false,false
+600,7198280832,Koregaon Park,Brick mason,true,29,Male,Full Time,Evening,Whole Day,7500,8,43,482521075906,no,false,false,true
+601,9186771489,Koregaon Park,Carpenter,true,35,Male,Part Time,Morning,Morning,2500,1,14,148784523325,yes,false,false,true
+602,8089386496,Koregaon Park,Cashier,true,21,Female,Full Time,Afternoon,Whole Day,9500,6,44,485557374747,no,false,false,false
+603,8861658800,Koregaon Park,Childcare Worker,false,25,Female,Part Time,Afternoon,Afternoon,9000,7,41,217928249818,yes,false,false,true
+604,7006500915,Koregaon Park,Cook,true,19,Male,Part Time,Afternoon,Afternoon,9000,9,51,344767982195,yes,false,false,false
+605,9315462883,Koregaon Park,Driver,true,31,Male,Part Time,Afternoon,Afternoon,5500,6,46,763277580462,yes,false,false,true
+606,8525700415,Koregaon Park,Electrician,true,30,Male,Part Time,Morning,Morning,4000,2,6,381850909078,yes,true,false,false
+607,8030266287,Koregaon Park,Hairdresser,true,29,Female,Part Time,Afternoon,Afternoon,5500,10,57,186559221723,no,true,false,false
+608,9781679282,Koregaon Park,Janitor,false,20,Male,Part Time,Afternoon,Afternoon,8000,10,42,874217155173,no,true,false,false
+609,9147317066,Koregaon Park,Maid,false,25,Female,Part Time,Afternoon,Afternoon,9000,6,48,035256039365,yes,false,false,false
+610,9520145654,Koregaon Park,Mehndi Artist,true,34,Female,Full Time,Afternoon,Whole Day,3000,2,20,934564908420,no,true,false,true
+611,9382232547,Koregaon Park,Painter,false,29,Male,Part Time,Afternoon,Afternoon,5500,9,55,644794673655,no,true,false,false
+612,8592132979,Koregaon Park,Plumber,true,22,Male,Full Time,Morning,Whole Day,5000,9,57,576751388077,yes,true,false,false
+613,9042966989,Koregaon Park,Receptionist,true,22,Female,Part Time,Evening,Evening,4500,5,40,980296268986,no,true,false,true
+614,9123643473,Koregaon Park,Security Guard,false,24,Male,Full Time,Afternoon,Whole Day,2500,3,39,030888992951,yes,false,false,true
+615,9057896609,Koregaon Park,Tailor,false,25,Male,Full Time,Evening,Whole Day,2000,1,10,728205581934,no,true,false,false
+616,7284653544,Koregaon Park,Waiter,false,27,Male,Full Time,Afternoon,Whole Day,3000,3,35,069827622984,no,false,false,true
+617,7182624766,Koregaon Park,Waitress,false,32,Female,Part Time,Morning,Morning,9500,9,45,601445904985,no,false,false,true
+618,7562004059,Koregaon Park,Worker,true,32,Male,Part Time,Morning,Morning,7500,8,43,244634009256,yes,true,false,true
+619,8515065623,Koregaon Park,Salesperson,false,28,Male,Full Time,Afternoon,Whole Day,7500,8,52,079818759048,no,false,false,false
+620,9095626852,Koregaon Park,Delivery Boy,false,38,Male,Full Time,Afternoon,Whole Day,6000,7,45,976439286803,yes,true,false,false
+621,8607722344,Koregaon Park,Mechanic,false,25,Male,Part Time,Morning,Morning,5000,10,43,971442803679,yes,false,false,false
+622,9800440891,Kothrud,Accountant,false,29,Female,Part Time,Afternoon,Afternoon,9500,7,46,005000873940,no,true,false,false
+623,8192752098,Kothrud,Brick mason,true,25,Male,Full Time,Afternoon,Whole Day,9500,9,48,355581600180,no,true,false,true
+624,8772807634,Kothrud,Carpenter,false,35,Male,Full Time,Afternoon,Whole Day,4000,1,7,384357445899,yes,false,false,false
+625,8067483126,Kothrud,Cashier,true,19,Female,Part Time,Morning,Morning,8000,9,44,489259534044,no,false,false,false
+626,9204715706,Kothrud,Childcare Worker,false,24,Female,Full Time,Morning,Whole Day,6500,7,48,886463567205,yes,false,false,false
+627,9643999235,Kothrud,Cook,true,32,Male,Full Time,Afternoon,Whole Day,2000,2,12,179358178145,yes,true,false,true
+628,7481165051,Kothrud,Driver,true,29,Male,Full Time,Evening,Whole Day,7000,8,57,556313568434,yes,false,false,false
+629,7932618543,Kothrud,Electrician,true,30,Male,Part Time,Afternoon,Afternoon,2000,4,38,909715036424,yes,true,false,true
+630,8895254722,Kothrud,Hairdresser,true,30,Female,Full Time,Morning,Whole Day,8500,9,57,861027545367,no,true,false,true
+631,7276845259,Kothrud,Janitor,true,33,Male,Full Time,Evening,Whole Day,4000,3,36,269360048591,no,true,false,false
+632,9938607086,Kothrud,Maid,true,18,Female,Part Time,Evening,Evening,7500,9,41,618344959466,yes,true,false,false
+633,9868237373,Kothrud,Mehndi Artist,false,21,Female,Full Time,Evening,Whole Day,3000,5,37,216506200432,no,false,false,true
+634,8260310043,Kothrud,Painter,false,31,Male,Part Time,Evening,Evening,3500,5,34,770938948170,no,true,false,true
+635,8704922052,Kothrud,Plumber,false,19,Male,Part Time,Morning,Morning,7500,6,56,211285572275,yes,true,false,true
+636,7832525975,Kothrud,Receptionist,false,34,Female,Part Time,Afternoon,Afternoon,6500,9,58,689659773601,no,false,false,true
+637,9154039325,Kothrud,Security Guard,false,32,Male,Full Time,Morning,Whole Day,6000,7,53,541166480283,yes,false,false,false
+638,9516447324,Kothrud,Tailor,false,24,Male,Full Time,Evening,Whole Day,7000,9,49,232667416914,no,false,false,false
+639,9660228547,Kothrud,Waiter,false,26,Male,Part Time,Afternoon,Afternoon,10000,7,59,361734204980,no,true,false,false
+640,8755923311,Kothrud,Waitress,false,29,Female,Part Time,Morning,Morning,4000,4,35,241976738281,no,true,false,false
+641,7767542959,Kothrud,Worker,false,34,Male,Full Time,Morning,Whole Day,8000,6,57,160491501098,yes,true,false,true
+642,8895886248,Kothrud,Salesperson,true,27,Male,Part Time,Afternoon,Afternoon,5000,10,55,377314231540,no,false,false,true
+643,9463397377,Kothrud,Delivery Boy,true,38,Male,Full Time,Evening,Whole Day,3000,1,5,797107744182,yes,true,false,true
+644,8268711658,Kothrud,Mechanic,true,40,Male,Full Time,Morning,Whole Day,3500,4,23,614794918183,yes,true,false,false
+645,9738740992,Mundhwa,Accountant,true,26,Male,Full Time,Morning,Whole Day,5000,10,48,636432047277,no,false,false,false
+646,9788978852,Mundhwa,Brick mason,false,18,Male,Part Time,Evening,Evening,2000,4,34,050653065312,no,false,false,true
+647,8037736381,Mundhwa,Carpenter,false,25,Male,Full Time,Afternoon,Whole Day,9000,10,49,688628704372,yes,true,false,true
+648,9789653274,Mundhwa,Cashier,true,33,Male,Part Time,Evening,Evening,4000,1,7,927865284456,no,true,false,false
+649,7295221101,Mundhwa,Childcare Worker,true,28,Female,Full Time,Morning,Whole Day,6500,6,40,736679161301,yes,true,false,false
+650,9466901089,Mundhwa,Cook,false,37,Male,Full Time,Afternoon,Whole Day,4500,5,29,359848890466,yes,false,false,false
+651,9065063879,Mundhwa,Driver,true,32,Male,Part Time,Evening,Evening,4500,4,37,280742151121,yes,true,false,true
+652,7690281099,Mundhwa,Electrician,false,20,Male,Part Time,Afternoon,Afternoon,6000,6,55,047136970416,yes,true,false,true
+653,8598958948,Mundhwa,Hairdresser,true,29,Female,Part Time,Evening,Evening,8500,10,52,659884365852,no,false,false,true
+654,7124469222,Mundhwa,Janitor,false,18,Male,Full Time,Afternoon,Whole Day,8500,9,45,033342170539,no,false,false,false
+655,9866840610,Mundhwa,Maid,true,20,Female,Full Time,Morning,Whole Day,2500,1,14,815670254588,yes,false,false,false
+656,9810370358,Mundhwa,Mehndi Artist,true,34,Female,Full Time,Evening,Whole Day,8000,8,50,439088104174,no,false,false,true
+657,9756175152,Mundhwa,Painter,true,24,Male,Part Time,Morning,Morning,3000,2,7,075590026364,no,false,false,false
+658,9166765972,Mundhwa,Plumber,false,40,Male,Full Time,Evening,Whole Day,2000,4,24,546630143550,yes,false,false,true
+659,7372160868,Mundhwa,Receptionist,false,39,Female,Part Time,Evening,Evening,3500,2,12,488805490553,no,true,false,false
+660,8402079636,Mundhwa,Security Guard,true,21,Male,Part Time,Afternoon,Afternoon,3000,4,21,172128686347,yes,true,false,false
+661,8774884798,Mundhwa,Tailor,true,29,Male,Part Time,Morning,Morning,3500,1,18,039432674111,no,true,false,true
+662,9130004763,Mundhwa,Waiter,true,21,Male,Full Time,Afternoon,Whole Day,3000,2,12,248372153040,no,false,false,true
+663,7073652882,Mundhwa,Waitress,true,26,Female,Full Time,Morning,Whole Day,2500,2,19,809004130472,no,false,false,true
+664,9926438920,Mundhwa,Worker,false,32,Male,Full Time,Morning,Whole Day,4500,4,34,884559335684,yes,false,false,false
+665,8026262851,Mundhwa,Salesperson,false,30,Male,Full Time,Afternoon,Whole Day,6000,10,49,281845640100,no,true,false,true
+666,8613563279,Mundhwa,Delivery Boy,false,37,Male,Part Time,Afternoon,Afternoon,2000,2,17,097634464981,yes,false,false,true
+667,7060549794,Mundhwa,Mechanic,true,24,Male,Part Time,Morning,Morning,5000,9,44,080458377731,yes,false,false,true
+668,8392686547,Nigdi,Accountant,false,37,Female,Full Time,Evening,Whole Day,6000,10,60,204384848548,no,false,false,true
+669,8234344625,Nigdi,Brick mason,true,26,Male,Full Time,Evening,Whole Day,9000,9,60,053721550866,no,false,false,false
+670,9983858627,Nigdi,Carpenter,true,28,Male,Full Time,Afternoon,Whole Day,6500,9,47,159697467402,yes,true,false,false
+671,7115700283,Nigdi,Cashier,true,32,Male,Part Time,Morning,Morning,4000,3,20,521684269286,no,true,false,false
+672,7947036767,Nigdi,Childcare Worker,false,37,Female,Full Time,Afternoon,Whole Day,3000,5,32,291888102628,yes,false,false,true
+673,7803347225,Nigdi,Cook,false,21,Male,Full Time,Afternoon,Whole Day,3500,5,30,681788896936,yes,true,false,false
+674,9355268279,Nigdi,Driver,true,25,Male,Full Time,Afternoon,Whole Day,7000,8,57,830406770581,yes,false,false,false
+675,7940555294,Nigdi,Electrician,false,23,Male,Part Time,Evening,Evening,2000,1,8,300576512309,yes,true,false,false
+676,9912781915,Nigdi,Hairdresser,true,25,Female,Full Time,Afternoon,Whole Day,4500,1,9,677485790795,no,true,false,true
+677,9406461948,Nigdi,Janitor,true,22,Male,Part Time,Evening,Evening,5000,9,52,810237536580,no,true,false,false
+678,9211654152,Nigdi,Maid,false,27,Female,Full Time,Evening,Whole Day,9500,7,52,817931562931,yes,true,false,true
+679,7968958123,Nigdi,Mehndi Artist,false,29,Female,Part Time,Afternoon,Afternoon,6500,8,43,778001151158,no,true,false,true
+680,9380716570,Nigdi,Painter,true,35,Male,Full Time,Evening,Whole Day,6000,8,45,021435278188,no,true,false,false
+681,9629554987,Nigdi,Plumber,false,40,Male,Full Time,Morning,Whole Day,4000,4,26,181633786539,yes,false,false,true
+682,8110592178,Nigdi,Receptionist,false,37,Female,Part Time,Evening,Evening,2000,5,40,922005189282,no,true,false,true
+683,8814296157,Nigdi,Security Guard,true,38,Male,Full Time,Morning,Whole Day,2000,3,32,769678721368,yes,false,false,false
+684,7168781753,Nigdi,Tailor,true,31,Male,Full Time,Afternoon,Whole Day,4000,1,9,756744728380,no,true,false,true
+685,9543376721,Nigdi,Waiter,false,27,Male,Full Time,Afternoon,Whole Day,9500,7,40,596990095578,no,true,false,true
+686,8544909942,Nigdi,Waitress,false,27,Female,Full Time,Afternoon,Whole Day,4500,2,9,726944858232,no,true,false,false
+687,9108238066,Nigdi,Worker,true,36,Male,Part Time,Evening,Evening,4000,3,23,952942793746,yes,true,false,false
+688,9075229454,Nigdi,Salesperson,false,21,Female,Full Time,Evening,Whole Day,5500,9,54,988753948538,no,true,false,true
+689,9375053511,Nigdi,Delivery Boy,false,18,Male,Part Time,Afternoon,Afternoon,9500,8,46,231346617721,yes,true,false,true
+690,8307926483,Nigdi,Mechanic,true,37,Male,Part Time,Afternoon,Afternoon,8000,10,47,696308573976,yes,false,false,true
+691,7567289896,Parvati,Accountant,false,33,Female,Part Time,Morning,Morning,9500,6,55,242171378773,no,true,false,false
+692,8715868839,Parvati,Brick mason,false,33,Male,Full Time,Morning,Whole Day,5500,10,60,923533010177,no,false,false,false
+693,8483445705,Parvati,Carpenter,true,33,Male,Full Time,Morning,Whole Day,4500,3,33,926091841238,yes,false,false,true
+694,9775898346,Parvati,Cashier,true,38,Female,Full Time,Morning,Whole Day,4500,3,40,870269696846,no,true,false,true
+695,9386265523,Parvati,Childcare Worker,false,34,Female,Full Time,Afternoon,Whole Day,5000,6,52,481821140336,yes,false,false,true
+696,7170517814,Parvati,Cook,false,18,Male,Part Time,Evening,Evening,3000,5,40,567332547607,yes,false,false,true
+697,7291314864,Parvati,Driver,true,36,Male,Full Time,Morning,Whole Day,7000,7,44,843110249041,yes,true,false,false
+698,8807440208,Parvati,Electrician,false,37,Male,Full Time,Evening,Whole Day,7000,10,53,198474917906,yes,true,false,true
+699,9896212977,Parvati,Hairdresser,false,38,Female,Part Time,Evening,Evening,9500,6,41,294969711486,no,false,false,false
+700,9579345631,Parvati,Janitor,true,25,Male,Full Time,Afternoon,Whole Day,4000,2,8,818589444120,no,true,false,true
+701,9728013850,Parvati,Maid,true,26,Female,Part Time,Evening,Evening,5000,9,59,147570689886,yes,false,false,false
+702,7368388460,Parvati,Mehndi Artist,false,21,Female,Full Time,Evening,Whole Day,4000,4,37,413983583632,no,true,false,false
+703,9723557608,Parvati,Painter,false,29,Male,Full Time,Evening,Whole Day,4000,3,31,801231004189,no,false,false,false
+704,7604817014,Parvati,Plumber,true,24,Male,Part Time,Evening,Evening,4500,5,30,475747555441,yes,true,false,false
+705,8022474056,Parvati,Receptionist,false,22,Male,Full Time,Afternoon,Whole Day,6500,10,42,094199318793,no,false,false,true
+706,7970944844,Parvati,Security Guard,true,31,Male,Full Time,Evening,Whole Day,4500,2,17,880195452918,yes,false,false,true
+707,9389662833,Parvati,Tailor,true,21,Male,Full Time,Evening,Whole Day,6000,7,45,651902824215,no,true,false,true
+708,8674193560,Parvati,Waiter,true,24,Male,Part Time,Afternoon,Afternoon,3000,1,9,530929941054,no,false,false,false
+709,8537614192,Parvati,Waitress,true,28,Female,Full Time,Morning,Whole Day,3000,2,14,929176799919,no,true,false,true
+710,9793850037,Parvati,Worker,true,31,Male,Full Time,Evening,Whole Day,9000,9,60,930566480542,yes,false,false,true
+711,8790763210,Parvati,Salesperson,true,40,Female,Part Time,Afternoon,Afternoon,6500,10,43,252040661406,no,false,false,false
+712,8652410720,Parvati,Delivery Boy,false,22,Male,Part Time,Evening,Evening,2500,4,23,691709843089,yes,true,false,false
+713,9936581737,Parvati,Mechanic,true,25,Male,Full Time,Afternoon,Whole Day,6500,7,49,926247048211,yes,true,false,false
+714,7092540945,Pashan,Accountant,true,36,Male,Part Time,Morning,Morning,6500,7,47,913738902642,no,true,false,true
+715,7440519400,Pashan,Brick mason,false,22,Male,Full Time,Evening,Whole Day,8000,7,43,050880278686,no,false,false,false
+716,8804760238,Pashan,Carpenter,true,31,Male,Part Time,Morning,Morning,2000,3,23,015583785902,yes,true,false,true
+717,7577380816,Pashan,Cashier,true,25,Male,Full Time,Afternoon,Whole Day,4000,2,19,045758698983,no,false,false,true
+718,8045425826,Pashan,Childcare Worker,true,22,Female,Part Time,Afternoon,Afternoon,2000,3,29,295249549522,yes,false,false,false
+719,9714701261,Pashan,Cook,true,30,Male,Full Time,Morning,Whole Day,5500,8,59,714619231418,yes,true,false,false
+720,7067746435,Pashan,Driver,true,24,Male,Part Time,Evening,Evening,9500,8,43,270246997995,yes,true,false,false
+721,9722639691,Pashan,Electrician,true,27,Male,Full Time,Morning,Whole Day,3500,2,6,294664966254,yes,true,false,true
+722,9646366685,Pashan,Hairdresser,false,22,Female,Full Time,Morning,Whole Day,3000,1,16,892015790207,no,true,false,true
+723,8429773012,Pashan,Janitor,true,22,Male,Part Time,Evening,Evening,3500,4,30,085145860448,no,false,false,false
+724,9744816099,Pashan,Maid,true,23,Female,Part Time,Afternoon,Afternoon,3000,1,18,156607765160,yes,false,false,true
+725,7364777000,Pashan,Mehndi Artist,true,29,Female,Full Time,Evening,Whole Day,10000,10,60,082756017515,no,true,false,false
+726,9627036212,Pashan,Painter,true,33,Male,Full Time,Morning,Whole Day,6500,6,40,342173278424,no,true,false,false
+727,9346221763,Pashan,Plumber,true,23,Male,Full Time,Evening,Whole Day,9500,9,60,887435700491,yes,false,false,false
+728,9232243821,Pashan,Receptionist,true,35,Female,Full Time,Evening,Whole Day,7500,7,57,257508718769,no,false,false,false
+729,9680827197,Pashan,Security Guard,false,30,Male,Full Time,Afternoon,Whole Day,9000,6,60,898899325108,yes,true,false,true
+730,7680933124,Pashan,Tailor,false,26,Male,Part Time,Afternoon,Afternoon,5000,7,45,914402281365,no,false,false,true
+731,7849469275,Pashan,Waiter,true,29,Male,Full Time,Evening,Whole Day,4000,4,35,384039662146,no,true,false,true
+732,8346193936,Pashan,Waitress,true,24,Female,Part Time,Evening,Evening,2500,3,24,442599503247,no,true,false,false
+733,9890833319,Pashan,Worker,false,40,Male,Full Time,Morning,Whole Day,6000,8,44,810536400214,yes,true,false,true
+734,8474202218,Pashan,Salesperson,true,25,Male,Part Time,Evening,Evening,3000,3,29,391535794120,no,false,false,false
+735,8785654572,Pashan,Delivery Boy,true,25,Male,Full Time,Evening,Whole Day,5500,6,53,359362052833,yes,false,false,true
+736,8344025538,Pashan,Mechanic,true,21,Male,Part Time,Morning,Morning,3000,5,39,181203894557,yes,false,false,true
+737,8507144689,Paud Road,Accountant,true,37,Male,Full Time,Evening,Whole Day,4000,5,40,884461083161,no,true,false,true
+738,8944114224,Paud Road,Brick mason,false,26,Male,Full Time,Evening,Whole Day,9500,8,60,233014010663,no,false,false,true
+739,9941543408,Paud Road,Carpenter,true,21,Male,Part Time,Evening,Evening,6500,9,60,863793597342,yes,false,false,false
+740,9099211737,Paud Road,Cashier,true,24,Female,Full Time,Evening,Whole Day,6000,9,52,977504971631,no,true,false,true
+741,7945262870,Paud Road,Childcare Worker,true,20,Female,Full Time,Evening,Whole Day,4000,1,17,202547015921,yes,true,false,true
+742,9944157527,Paud Road,Cook,true,27,Male,Full Time,Evening,Whole Day,8500,8,54,964788128505,yes,false,false,true
+743,7251946477,Paud Road,Driver,false,37,Male,Part Time,Afternoon,Afternoon,4000,1,18,055795098996,yes,true,false,false
+744,8465126814,Paud Road,Electrician,true,18,Male,Part Time,Morning,Morning,4500,1,7,403477415693,yes,true,false,true
+745,9070391436,Paud Road,Hairdresser,false,25,Female,Part Time,Afternoon,Afternoon,8500,10,55,266933486162,no,false,false,false
+746,9345944179,Paud Road,Janitor,true,28,Male,Part Time,Afternoon,Afternoon,7500,10,49,921855985914,no,false,false,true
+747,9775932089,Paud Road,Maid,true,38,Female,Part Time,Morning,Morning,6500,6,45,501531532457,yes,true,false,false
+748,9431301312,Paud Road,Mehndi Artist,true,26,Female,Full Time,Morning,Whole Day,4000,2,5,220660537485,no,false,false,false
+749,9838693342,Paud Road,Painter,false,38,Male,Part Time,Evening,Evening,2500,2,6,118156454199,no,true,false,true
+750,7306908659,Paud Road,Plumber,false,31,Male,Part Time,Morning,Morning,5000,7,60,362371702804,yes,true,false,false
+751,9842236453,Paud Road,Receptionist,true,20,Female,Full Time,Afternoon,Whole Day,5000,10,47,171964383980,no,false,false,false
+752,8052218261,Paud Road,Security Guard,false,35,Male,Full Time,Afternoon,Whole Day,8500,7,59,662881976347,yes,true,false,true
+753,7681572830,Paud Road,Tailor,true,22,Male,Part Time,Morning,Morning,6500,9,43,294812488424,no,false,false,false
+754,7526969186,Paud Road,Waiter,true,25,Male,Full Time,Evening,Whole Day,9500,8,60,023582241010,no,false,false,false
+755,9762385702,Paud Road,Waitress,false,18,Female,Part Time,Morning,Morning,7000,8,43,885598749505,no,false,false,true
+756,9071839336,Paud Road,Worker,false,20,Male,Full Time,Morning,Whole Day,5000,8,53,684310412686,yes,false,false,true
+757,9698995717,Paud Road,Salesperson,false,32,Male,Full Time,Afternoon,Whole Day,8500,8,41,048945493100,no,true,false,true
+758,9370264965,Paud Road,Delivery Boy,true,40,Male,Full Time,Afternoon,Whole Day,9500,10,57,660993729625,yes,true,false,false
+759,9232829161,Paud Road,Mechanic,false,38,Male,Full Time,Morning,Whole Day,8500,6,57,298274628615,yes,false,false,false
+760,9187893793,Pimplesaudagar,Accountant,true,34,Male,Full Time,Afternoon,Whole Day,4000,2,15,123213179441,no,true,false,false
+761,8419765552,Pimplesaudagar,Brick mason,true,38,Male,Part Time,Morning,Morning,5500,10,45,336768776358,no,true,false,false
+762,7518577079,Pimplesaudagar,Carpenter,true,23,Male,Full Time,Afternoon,Whole Day,7000,9,60,626470310779,yes,true,false,true
+763,8775258787,Pimplesaudagar,Cashier,false,29,Female,Full Time,Morning,Whole Day,6500,7,57,567911367426,no,false,false,false
+764,9798237367,Pimplesaudagar,Childcare Worker,true,40,Female,Full Time,Evening,Whole Day,8000,9,60,902777501861,yes,true,false,false
+765,8688858780,Pimplesaudagar,Cook,false,23,Male,Part Time,Morning,Morning,9500,6,51,041469627734,yes,true,false,false
+766,9908261952,Pimplesaudagar,Driver,false,28,Male,Part Time,Morning,Morning,7000,10,55,475689676095,yes,true,false,true
+767,8974794617,Pimplesaudagar,Electrician,true,30,Male,Full Time,Morning,Whole Day,10000,7,58,641266158189,yes,true,false,false
+768,9205664485,Pimplesaudagar,Hairdresser,true,19,Female,Full Time,Morning,Whole Day,2000,3,31,968617030949,no,false,false,true
+769,9401358469,Pimplesaudagar,Janitor,true,23,Male,Part Time,Afternoon,Afternoon,6500,8,41,630569770113,no,false,false,false
+770,7347250548,Pimplesaudagar,Maid,false,20,Female,Full Time,Evening,Whole Day,8500,9,50,562543799162,yes,true,false,true
+771,7427290296,Pimplesaudagar,Mehndi Artist,true,39,Female,Part Time,Evening,Evening,8500,9,50,698901361997,no,true,false,false
+772,7990792886,Pimplesaudagar,Painter,true,38,Male,Full Time,Afternoon,Whole Day,4000,3,25,076328402955,no,false,false,false
+773,9232758303,Pimplesaudagar,Plumber,false,35,Male,Part Time,Morning,Morning,8500,8,43,631956022568,yes,true,false,false
+774,8819800905,Pimplesaudagar,Receptionist,false,29,Female,Part Time,Evening,Evening,2500,2,12,488797429176,no,false,false,true
+775,9017609027,Pimplesaudagar,Security Guard,true,35,Male,Full Time,Afternoon,Whole Day,8500,8,54,088402071149,yes,true,false,true
+776,9899677454,Pimplesaudagar,Tailor,false,18,Male,Full Time,Morning,Whole Day,5500,10,50,435521076042,no,true,false,true
+777,7880717044,Pimplesaudagar,Waiter,true,40,Male,Full Time,Evening,Whole Day,2000,1,12,358019720758,no,true,false,true
+778,7386010493,Pimplesaudagar,Waitress,true,33,Female,Full Time,Evening,Whole Day,5000,6,48,051018902571,no,true,false,true
+779,9113513904,Pimplesaudagar,Worker,false,18,Male,Full Time,Afternoon,Whole Day,2500,5,25,565303954836,yes,false,false,true
+780,9849371587,Pimplesaudagar,Salesperson,true,32,Female,Part Time,Evening,Evening,8000,10,55,814486381534,no,true,false,false
+781,9112692004,Pimplesaudagar,Delivery Boy,true,25,Male,Part Time,Afternoon,Afternoon,7500,9,45,277629493572,yes,true,false,true
+782,7467787153,Pimplesaudagar,Mechanic,false,36,Male,Part Time,Afternoon,Afternoon,9500,10,49,915961972992,yes,true,false,false
+783,8883262063,Sahakarnagar,Accountant,false,35,Female,Part Time,Afternoon,Afternoon,10000,9,59,833654466355,no,true,false,true
+784,7488967737,Sahakarnagar,Brick mason,false,26,Male,Full Time,Morning,Whole Day,6500,9,56,581655652734,no,true,false,false
+785,8199374446,Sahakarnagar,Carpenter,false,35,Male,Full Time,Morning,Whole Day,5000,8,60,524213688037,yes,true,false,true
+786,7327639597,Sahakarnagar,Cashier,false,35,Male,Full Time,Morning,Whole Day,2000,3,32,213010857460,no,false,false,true
+787,9480800219,Sahakarnagar,Childcare Worker,false,26,Female,Part Time,Afternoon,Afternoon,4000,4,37,914945839458,yes,false,false,false
+788,7179041163,Sahakarnagar,Cook,false,25,Male,Full Time,Afternoon,Whole Day,7000,8,47,480799515784,yes,false,false,false
+789,9637012584,Sahakarnagar,Driver,true,26,Male,Part Time,Morning,Morning,9500,8,58,300230733037,yes,false,false,true
+790,7165443949,Sahakarnagar,Electrician,false,32,Male,Full Time,Afternoon,Whole Day,6500,7,42,289534659054,yes,true,false,false
+791,9215381264,Sahakarnagar,Hairdresser,true,18,Female,Part Time,Morning,Morning,7000,7,58,655625162301,no,true,false,true
+792,9511553596,Sahakarnagar,Janitor,true,31,Male,Full Time,Evening,Whole Day,9000,9,60,658197776257,no,false,false,false
+793,9438646101,Sahakarnagar,Maid,false,32,Female,Part Time,Evening,Evening,4000,5,39,360362621298,yes,false,false,true
+794,7760094056,Sahakarnagar,Mehndi Artist,true,20,Female,Full Time,Morning,Whole Day,4000,3,37,508262684568,no,true,false,true
+795,9761200302,Sahakarnagar,Painter,false,30,Male,Part Time,Morning,Morning,3000,5,26,022514291865,no,false,false,true
+796,8009136800,Sahakarnagar,Plumber,true,33,Male,Full Time,Evening,Whole Day,6500,6,60,551220877367,yes,false,false,false
+797,7421068296,Sahakarnagar,Receptionist,false,25,Female,Part Time,Afternoon,Afternoon,5500,9,53,187252132869,no,false,false,false
+798,8402927011,Sahakarnagar,Security Guard,false,39,Male,Full Time,Evening,Whole Day,7500,9,54,833786302857,yes,false,false,true
+799,9405671844,Sahakarnagar,Tailor,true,24,Male,Part Time,Evening,Evening,9000,9,57,604784221983,no,false,false,false
+800,8051944501,Sahakarnagar,Waiter,true,37,Male,Full Time,Afternoon,Whole Day,7500,10,50,016486856939,no,true,false,false
+801,7673045939,Sahakarnagar,Waitress,true,32,Female,Part Time,Afternoon,Afternoon,7500,6,58,992479429477,no,true,false,true
+802,9205088741,Sahakarnagar,Worker,false,31,Male,Full Time,Morning,Whole Day,8500,7,57,356451682496,yes,true,false,false
+803,9373509880,Sahakarnagar,Salesperson,true,24,Male,Full Time,Morning,Whole Day,3500,3,29,280436006653,no,true,false,false
+804,8936630024,Sahakarnagar,Delivery Boy,true,26,Male,Full Time,Morning,Whole Day,4000,2,14,552388041250,yes,true,false,false
+805,9583140864,Sahakarnagar,Mechanic,true,19,Male,Full Time,Morning,Whole Day,5000,7,40,841279848312,yes,false,false,false
+806,7725735283,Saswad,Accountant,false,34,Male,Full Time,Evening,Whole Day,2500,3,34,355901035376,no,true,false,true
+807,9973234740,Saswad,Brick mason,false,40,Male,Part Time,Morning,Morning,3500,4,33,978352990874,no,true,false,false
+808,7472122624,Saswad,Carpenter,false,26,Male,Part Time,Morning,Morning,3000,5,31,887019763025,yes,true,false,false
+809,8056046888,Saswad,Cashier,true,28,Female,Full Time,Evening,Whole Day,9000,10,46,400148002516,no,false,false,true
+810,7796541448,Saswad,Childcare Worker,false,19,Female,Part Time,Afternoon,Afternoon,4000,5,34,767268801254,yes,false,false,false
+811,9534782179,Saswad,Cook,true,30,Male,Part Time,Evening,Evening,10000,6,44,609529411206,yes,true,false,true
+812,9693435950,Saswad,Driver,false,38,Male,Full Time,Evening,Whole Day,3500,1,11,750756504896,yes,true,false,false
+813,7782641902,Saswad,Electrician,true,26,Male,Part Time,Afternoon,Afternoon,9000,6,50,979659775249,yes,false,false,false
+814,9873339881,Saswad,Hairdresser,true,22,Female,Full Time,Evening,Whole Day,5000,8,52,546501204926,no,false,false,false
+815,9159549149,Saswad,Janitor,false,29,Male,Full Time,Morning,Whole Day,4500,5,39,733485056296,no,true,false,true
+816,9191874739,Saswad,Maid,true,27,Female,Part Time,Morning,Morning,8500,8,58,728626349644,yes,true,false,false
+817,8460774308,Saswad,Mehndi Artist,false,32,Female,Part Time,Morning,Morning,7000,7,49,913361856995,no,true,false,false
+818,7384887688,Saswad,Painter,false,34,Male,Part Time,Afternoon,Afternoon,4500,5,23,608357822873,no,true,false,true
+819,9320141685,Saswad,Plumber,false,21,Male,Part Time,Evening,Evening,9500,9,41,221599513043,yes,false,false,false
+820,7794771207,Saswad,Receptionist,false,35,Male,Full Time,Morning,Whole Day,7500,6,42,063673288262,no,false,false,true
+821,7713013089,Saswad,Security Guard,false,38,Male,Full Time,Morning,Whole Day,7000,6,55,723014770797,yes,true,false,true
+822,7530131984,Saswad,Tailor,true,34,Male,Full Time,Afternoon,Whole Day,5000,6,44,290596547859,no,false,false,true
+823,7520334855,Saswad,Waiter,true,37,Male,Full Time,Morning,Whole Day,7000,6,47,857594086224,no,false,false,false
+824,8772843015,Saswad,Waitress,false,31,Female,Full Time,Morning,Whole Day,5000,10,52,295204412810,no,false,false,false
+825,9517891984,Saswad,Worker,true,30,Male,Full Time,Morning,Whole Day,2000,3,38,955715471923,yes,false,false,false
+826,7735503661,Saswad,Salesperson,true,21,Female,Part Time,Morning,Morning,7500,8,60,137714146231,no,true,false,false
+827,7890073378,Saswad,Delivery Boy,true,38,Male,Full Time,Evening,Whole Day,6000,6,56,603919961640,yes,false,false,false
+828,9680406628,Saswad,Mechanic,false,30,Male,Part Time,Afternoon,Afternoon,4000,4,23,484783555337,yes,true,false,true
+829,9595655590,Salisbury Park,Accountant,true,23,Male,Part Time,Evening,Evening,7000,8,49,086346585737,no,true,false,true
+830,8605949023,Salisbury Park,Brick mason,false,35,Male,Full Time,Morning,Whole Day,6000,7,43,828817730489,no,true,false,false
+831,9992924639,Salisbury Park,Carpenter,true,30,Male,Full Time,Evening,Whole Day,5000,9,45,719991597462,yes,true,false,false
+832,7417308398,Salisbury Park,Cashier,true,38,Female,Part Time,Morning,Morning,5000,8,58,462117813180,no,true,false,true
+833,9927087653,Salisbury Park,Childcare Worker,true,37,Female,Full Time,Morning,Whole Day,5500,8,59,137074334835,yes,false,false,true
+834,8879700226,Salisbury Park,Cook,true,19,Male,Part Time,Evening,Evening,10000,6,42,943637447324,yes,true,false,false
+835,8776414091,Salisbury Park,Driver,true,26,Male,Full Time,Afternoon,Whole Day,3000,4,37,436789886465,yes,false,false,true
+836,9306166070,Salisbury Park,Electrician,true,26,Male,Part Time,Morning,Morning,10000,9,49,909192759736,yes,false,false,false
+837,9490828959,Salisbury Park,Hairdresser,false,20,Female,Full Time,Morning,Whole Day,3000,3,24,313203306604,no,false,false,false
+838,9374243709,Salisbury Park,Janitor,false,26,Male,Part Time,Evening,Evening,8500,9,55,721787244915,no,true,false,false
+839,8550430253,Salisbury Park,Maid,true,38,Female,Part Time,Evening,Evening,6000,6,50,792719424763,yes,false,false,false
+840,9417152301,Salisbury Park,Mehndi Artist,true,21,Female,Part Time,Evening,Evening,10000,8,44,114905902273,no,true,false,false
+841,9741686365,Salisbury Park,Painter,false,37,Male,Part Time,Evening,Evening,7500,8,45,909756236857,no,true,false,true
+842,7752533201,Salisbury Park,Plumber,false,29,Male,Part Time,Evening,Evening,9500,7,40,296008476294,yes,true,false,false
+843,9686184578,Salisbury Park,Receptionist,false,29,Female,Part Time,Afternoon,Afternoon,9000,8,58,754243062462,no,false,false,true
+844,8128668216,Salisbury Park,Security Guard,false,29,Male,Part Time,Morning,Morning,6000,10,58,438991886341,yes,false,false,false
+845,9489938284,Salisbury Park,Tailor,false,32,Male,Part Time,Afternoon,Afternoon,8000,9,50,343934655523,no,true,false,false
+846,9753853311,Salisbury Park,Waiter,false,35,Male,Full Time,Morning,Whole Day,7000,7,50,247229591677,no,false,false,false
+847,7735906313,Salisbury Park,Waitress,false,23,Female,Part Time,Evening,Evening,9000,7,46,362429077503,no,true,false,true
+848,7954789622,Salisbury Park,Worker,true,34,Male,Full Time,Evening,Whole Day,4000,1,9,755445999320,yes,false,false,false
+849,8907229848,Salisbury Park,Salesperson,true,28,Female,Full Time,Evening,Whole Day,2500,2,17,512111597995,no,true,false,false
+850,8995992437,Salisbury Park,Delivery Boy,true,25,Male,Part Time,Afternoon,Afternoon,6500,9,56,042594876651,yes,true,false,true
+851,9134673731,Salisbury Park,Mechanic,true,24,Male,Full Time,Morning,Whole Day,5500,7,57,957869015832,yes,false,false,true
+852,8435620120,Shivajinagar,Accountant,false,39,Male,Full Time,Afternoon,Whole Day,4500,4,22,842035499983,no,false,false,false
+853,9344573569,Shivajinagar,Brick mason,true,31,Male,Full Time,Evening,Whole Day,4500,1,12,478884748462,no,false,false,false
+854,9878184832,Shivajinagar,Carpenter,false,34,Male,Full Time,Evening,Whole Day,8500,6,54,833517836066,yes,true,false,true
+855,9648757795,Shivajinagar,Cashier,true,39,Male,Full Time,Afternoon,Whole Day,7500,7,50,605539514729,no,false,false,true
+856,9731010318,Shivajinagar,Childcare Worker,false,19,Female,Part Time,Evening,Evening,7000,7,53,793642209161,yes,true,false,false
+857,9027427311,Shivajinagar,Cook,true,35,Male,Full Time,Morning,Whole Day,5500,10,60,185590351762,yes,true,false,true
+858,9355413033,Shivajinagar,Driver,true,38,Male,Full Time,Afternoon,Whole Day,2500,1,18,032066300767,yes,false,false,false
+859,9004355517,Shivajinagar,Electrician,false,18,Male,Full Time,Morning,Whole Day,6500,7,52,359321270653,yes,false,false,true
+860,9287704119,Shivajinagar,Hairdresser,false,33,Female,Full Time,Evening,Whole Day,3000,3,25,790358184608,no,false,false,false
+861,9100927505,Shivajinagar,Janitor,false,39,Male,Full Time,Evening,Whole Day,7000,9,50,640738990182,no,true,false,true
+862,7729232320,Shivajinagar,Maid,true,20,Female,Full Time,Afternoon,Whole Day,5500,6,52,330545284012,yes,true,false,true
+863,7272722373,Shivajinagar,Mehndi Artist,false,39,Female,Full Time,Afternoon,Whole Day,9000,8,57,109721997253,no,true,false,true
+864,7274464550,Shivajinagar,Painter,true,24,Male,Part Time,Afternoon,Afternoon,2000,4,25,703236622364,no,false,false,true
+865,9707406943,Shivajinagar,Plumber,true,39,Male,Full Time,Evening,Whole Day,7000,7,55,524088040409,yes,true,false,false
+866,7962722790,Shivajinagar,Receptionist,false,25,Female,Full Time,Afternoon,Whole Day,9000,10,56,504903708678,no,false,false,false
+867,9980870418,Shivajinagar,Security Guard,true,33,Male,Full Time,Afternoon,Whole Day,7500,6,58,338049487624,yes,true,false,true
+868,9172735089,Shivajinagar,Tailor,true,40,Male,Part Time,Afternoon,Afternoon,2500,3,35,477550884745,no,true,false,false
+869,7170966986,Shivajinagar,Waiter,false,39,Male,Part Time,Morning,Morning,6000,9,57,392113483957,no,true,false,true
+870,9947479284,Shivajinagar,Waitress,true,39,Female,Part Time,Morning,Morning,3500,4,29,965764422174,no,false,false,true
+871,9640780426,Shivajinagar,Worker,true,30,Male,Part Time,Evening,Evening,7500,6,49,855594760783,yes,true,false,true
+872,9871091973,Shivajinagar,Salesperson,true,33,Female,Full Time,Afternoon,Whole Day,5500,8,51,837306685317,no,true,false,false
+873,9103767468,Shivajinagar,Delivery Boy,true,37,Male,Full Time,Afternoon,Whole Day,2500,4,22,194705609426,yes,true,false,true
+874,9144322243,Shivajinagar,Mechanic,false,37,Male,Part Time,Morning,Morning,5000,6,40,515759570989,yes,false,false,false
+875,9785525167,Singhgad Road,Accountant,false,24,Male,Part Time,Afternoon,Afternoon,7000,8,48,748226679916,no,true,false,false
+876,9352966480,Singhgad Road,Brick mason,false,24,Male,Full Time,Evening,Whole Day,3000,5,39,805316847828,no,true,false,true
+877,9252389974,Singhgad Road,Carpenter,true,20,Male,Part Time,Evening,Evening,5500,8,42,055228297628,yes,false,false,true
+878,9654903755,Singhgad Road,Cashier,false,28,Male,Full Time,Afternoon,Whole Day,9000,8,52,729092375765,no,false,false,false
+879,9664937237,Singhgad Road,Childcare Worker,false,32,Female,Full Time,Evening,Whole Day,8000,6,54,131033512491,yes,false,false,false
+880,7917210559,Singhgad Road,Cook,false,21,Male,Full Time,Morning,Whole Day,10000,10,60,704558616632,yes,false,false,false
+881,8855233333,Singhgad Road,Driver,true,33,Male,Full Time,Evening,Whole Day,8000,8,48,110446902029,yes,false,false,false
+882,8487674603,Singhgad Road,Electrician,true,29,Male,Part Time,Evening,Evening,9000,10,55,758053281058,yes,false,false,false
+883,7314578722,Singhgad Road,Hairdresser,true,33,Female,Part Time,Afternoon,Afternoon,6500,7,47,259952785597,no,true,false,false
+884,8625487584,Singhgad Road,Janitor,true,39,Male,Part Time,Afternoon,Afternoon,9000,7,42,196476521386,no,true,false,false
+885,8927739184,Singhgad Road,Maid,true,24,Female,Full Time,Evening,Whole Day,9500,10,44,686861621172,yes,false,false,true
+886,9959922544,Singhgad Road,Mehndi Artist,true,25,Female,Part Time,Afternoon,Afternoon,9000,9,57,046864455780,no,false,false,false
+887,8220888555,Singhgad Road,Painter,true,35,Male,Part Time,Evening,Evening,9000,10,45,357803600751,no,true,false,false
+888,8822854820,Singhgad Road,Plumber,true,30,Male,Full Time,Morning,Whole Day,10000,6,54,602825004410,yes,true,false,true
+889,8170032246,Singhgad Road,Receptionist,false,35,Female,Part Time,Evening,Evening,7500,6,54,504612951835,no,false,false,true
+890,9251429377,Singhgad Road,Security Guard,true,35,Male,Full Time,Afternoon,Whole Day,5500,10,48,226989527681,yes,false,false,false
+891,8561447944,Singhgad Road,Tailor,false,26,Male,Part Time,Morning,Morning,4500,2,12,858452621169,no,true,false,false
+892,7937222654,Singhgad Road,Waiter,true,21,Male,Full Time,Evening,Whole Day,10000,9,45,738986685549,no,false,false,false
+893,7829785222,Singhgad Road,Waitress,true,30,Female,Part Time,Afternoon,Afternoon,2500,5,24,071473978155,no,true,false,true
+894,8601384426,Singhgad Road,Worker,false,25,Male,Full Time,Afternoon,Whole Day,3000,2,5,519646936517,yes,true,false,true
+895,8179671920,Singhgad Road,Salesperson,false,28,Female,Full Time,Afternoon,Whole Day,7000,9,43,148422311432,no,true,false,false
+896,9171089332,Singhgad Road,Delivery Boy,true,23,Male,Part Time,Evening,Evening,10000,6,46,895060770491,yes,true,false,true
+897,7448107373,Singhgad Road,Mechanic,false,21,Male,Part Time,Morning,Morning,10000,8,47,827847537580,yes,true,false,true
+898,9813906276,Swargate,Accountant,true,31,Female,Full Time,Morning,Whole Day,6500,9,46,050488220306,no,false,false,false
+899,9492429514,Swargate,Brick mason,true,38,Male,Part Time,Evening,Evening,10000,7,53,902010210621,no,false,false,true
+900,9520342177,Swargate,Carpenter,false,20,Male,Full Time,Morning,Whole Day,6000,8,52,344690842810,yes,false,false,false
+901,9842008140,Swargate,Cashier,false,39,Male,Full Time,Evening,Whole Day,4000,5,34,760306943573,no,false,false,true
+902,8811079049,Swargate,Childcare Worker,false,39,Female,Full Time,Evening,Whole Day,7000,9,60,787233370074,yes,false,false,true
+903,9368253451,Swargate,Cook,false,38,Male,Part Time,Morning,Morning,4500,4,24,015790180130,yes,false,false,true
+904,9839581809,Swargate,Driver,false,33,Male,Full Time,Afternoon,Whole Day,10000,8,40,496104367210,yes,true,false,false
+905,9503413462,Swargate,Electrician,false,25,Male,Full Time,Afternoon,Whole Day,4000,1,11,770425317408,yes,false,false,true
+906,9622076067,Swargate,Hairdresser,false,34,Female,Full Time,Evening,Whole Day,5000,7,46,071772401862,no,false,false,true
+907,8440731062,Swargate,Janitor,false,24,Male,Part Time,Evening,Evening,3500,5,31,408555996464,no,false,false,false
+908,7503681897,Swargate,Maid,false,22,Female,Full Time,Afternoon,Whole Day,10000,6,42,190748869504,yes,true,false,false
+909,9180107535,Swargate,Mehndi Artist,false,24,Female,Full Time,Morning,Whole Day,2000,5,29,268046630216,no,false,false,false
+910,7313812387,Swargate,Painter,true,23,Male,Part Time,Morning,Morning,2000,5,31,239574880784,no,false,false,true
+911,7398986761,Swargate,Plumber,false,20,Male,Full Time,Afternoon,Whole Day,7000,8,53,951720985714,yes,true,false,true
+912,7221379424,Swargate,Receptionist,true,35,Female,Full Time,Evening,Whole Day,2000,2,20,156032106785,no,false,false,true
+913,7736280728,Swargate,Security Guard,false,24,Male,Part Time,Evening,Evening,8000,9,48,910703869655,yes,false,false,true
+914,9081447263,Swargate,Tailor,false,36,Male,Part Time,Afternoon,Afternoon,9500,8,45,451956116577,no,true,false,true
+915,8920859271,Swargate,Waiter,false,31,Male,Part Time,Evening,Evening,5500,10,45,906853593204,no,true,false,true
+916,9390029730,Swargate,Waitress,false,23,Female,Part Time,Morning,Morning,10000,9,48,057893511007,no,false,false,true
+917,7558321970,Swargate,Worker,true,21,Male,Full Time,Morning,Whole Day,2000,1,14,592193030751,yes,true,false,true
+918,9752907257,Swargate,Salesperson,false,27,Female,Full Time,Afternoon,Whole Day,7500,10,54,608935872405,no,true,false,true
+919,9879872836,Swargate,Delivery Boy,true,34,Male,Full Time,Evening,Whole Day,3500,5,22,187050233719,yes,true,false,true
+920,9953250272,Swargate,Mechanic,true,23,Male,Full Time,Morning,Whole Day,3500,3,36,847959698232,yes,false,false,true
+921,9605442348,Vishrantwadi,Accountant,true,33,Female,Part Time,Morning,Morning,8500,6,47,761076194563,no,false,false,true
+922,9331597620,Vishrantwadi,Brick mason,false,30,Male,Full Time,Afternoon,Whole Day,2500,3,31,943025424098,no,true,false,true
+923,9807111790,Vishrantwadi,Carpenter,true,40,Male,Part Time,Afternoon,Afternoon,9500,9,60,336312121216,yes,true,false,false
+924,8309110203,Vishrantwadi,Cashier,true,25,Male,Part Time,Morning,Morning,2000,2,15,246710501599,no,false,false,true
+925,9707254006,Vishrantwadi,Childcare Worker,false,28,Female,Full Time,Morning,Whole Day,6000,7,48,504643889762,yes,true,false,true
+926,7777319809,Vishrantwadi,Cook,true,29,Male,Part Time,Evening,Evening,6500,7,58,937265930346,yes,false,false,true
+927,7738607957,Vishrantwadi,Driver,true,23,Male,Full Time,Afternoon,Whole Day,8000,7,53,685256348288,yes,true,false,true
+928,9400452255,Vishrantwadi,Electrician,true,37,Male,Part Time,Afternoon,Afternoon,6500,9,57,154874306189,yes,true,false,true
+929,7630379178,Vishrantwadi,Hairdresser,true,31,Female,Full Time,Afternoon,Whole Day,4000,2,20,619839247163,no,false,false,false
+930,8220206925,Vishrantwadi,Janitor,false,23,Male,Full Time,Afternoon,Whole Day,2000,1,16,403311783631,no,false,false,false
+931,9599715426,Vishrantwadi,Maid,false,24,Female,Part Time,Evening,Evening,2500,1,19,175453432336,yes,false,false,true
+932,7546115579,Vishrantwadi,Mehndi Artist,false,23,Female,Full Time,Evening,Whole Day,9000,9,58,077575357941,no,true,false,true
+933,9760576883,Vishrantwadi,Painter,false,28,Male,Part Time,Morning,Morning,8000,7,53,136614463394,no,false,false,true
+934,8099258814,Vishrantwadi,Plumber,true,18,Male,Full Time,Evening,Whole Day,5500,10,53,609840056775,yes,true,false,true
+935,8999003086,Vishrantwadi,Receptionist,false,33,Female,Full Time,Afternoon,Whole Day,4500,1,5,534594842600,no,false,false,true
+936,9272425460,Vishrantwadi,Security Guard,false,35,Male,Full Time,Morning,Whole Day,8500,6,40,674122921350,yes,true,false,false
+937,9644061422,Vishrantwadi,Tailor,false,39,Male,Part Time,Evening,Evening,5500,7,59,541482756622,no,true,false,false
+938,9550244300,Vishrantwadi,Waiter,true,23,Male,Full Time,Afternoon,Whole Day,5000,9,52,058467747083,no,false,false,true
+939,9598495991,Vishrantwadi,Waitress,false,40,Female,Part Time,Morning,Morning,3000,5,29,827060942216,no,false,false,false
+940,9658931533,Vishrantwadi,Worker,true,33,Male,Part Time,Evening,Evening,9000,7,53,981777125939,yes,true,false,false
+941,9937727331,Vishrantwadi,Salesperson,false,22,Female,Part Time,Afternoon,Afternoon,4000,5,34,483034732156,no,false,false,true
+942,9858228690,Vishrantwadi,Delivery Boy,false,26,Male,Part Time,Evening,Evening,6000,8,47,842209461134,yes,true,false,false
+943,9512776686,Vishrantwadi,Mechanic,false,18,Male,Part Time,Evening,Evening,5500,8,40,004045154239,yes,false,false,true
+944,9307241373,Vitthalwadi,Accountant,true,22,Female,Part Time,Evening,Evening,4500,3,20,257252134164,no,false,false,true
+945,7822178069,Vitthalwadi,Brick mason,false,36,Male,Part Time,Afternoon,Afternoon,3000,5,23,382563695067,no,true,false,false
+946,8295221668,Vitthalwadi,Carpenter,false,34,Male,Part Time,Evening,Evening,8000,6,43,793645693847,yes,true,false,false
+947,9338693154,Vitthalwadi,Cashier,false,18,Female,Full Time,Evening,Whole Day,6000,8,54,871244880856,no,false,false,true
+948,7964340586,Vitthalwadi,Childcare Worker,true,20,Female,Full Time,Evening,Whole Day,10000,7,43,959724499527,yes,true,false,false
+949,8513872333,Vitthalwadi,Cook,false,28,Male,Full Time,Afternoon,Whole Day,7500,6,52,890560927697,yes,false,false,true
+950,9378427034,Vitthalwadi,Driver,false,36,Male,Full Time,Evening,Whole Day,6000,7,51,657395965815,yes,true,false,false
+951,7730826394,Vitthalwadi,Electrician,false,28,Male,Full Time,Afternoon,Whole Day,3000,5,40,652196689429,yes,false,false,false
+952,9589937716,Vitthalwadi,Hairdresser,false,25,Female,Full Time,Evening,Whole Day,5000,9,50,485862406370,no,true,false,true
+953,8182181342,Vitthalwadi,Janitor,true,25,Male,Full Time,Morning,Whole Day,5000,7,57,782869762535,no,false,false,true
+954,7968624596,Vitthalwadi,Maid,false,40,Female,Part Time,Morning,Morning,10000,8,49,802573483536,yes,false,false,true
+955,9622104745,Vitthalwadi,Mehndi Artist,true,39,Female,Full Time,Morning,Whole Day,5500,8,51,541436894204,no,true,false,false
+956,8191892778,Vitthalwadi,Painter,true,37,Male,Part Time,Evening,Evening,5500,8,45,752717198413,no,false,false,true
+957,8786638914,Vitthalwadi,Plumber,false,18,Male,Part Time,Afternoon,Afternoon,2000,5,32,459169510649,yes,false,false,false
+958,8483353116,Vitthalwadi,Receptionist,true,40,Male,Part Time,Evening,Evening,8000,7,57,841233821416,no,true,false,false
+959,8486914897,Vitthalwadi,Security Guard,false,29,Male,Full Time,Morning,Whole Day,4000,5,37,845328443938,yes,true,false,false
+960,9435210838,Vitthalwadi,Tailor,true,18,Male,Full Time,Evening,Whole Day,5500,6,56,362402658316,no,true,false,false
+961,7619611987,Vitthalwadi,Waiter,false,25,Male,Part Time,Evening,Evening,9000,7,46,377855152101,no,true,false,true
+962,8546349462,Vitthalwadi,Waitress,false,26,Female,Part Time,Evening,Evening,7500,7,43,824004509567,no,true,false,false
+963,9821916508,Vitthalwadi,Worker,false,19,Male,Part Time,Afternoon,Afternoon,6500,6,49,375644854535,yes,false,false,false
+964,9578738314,Vitthalwadi,Salesperson,true,32,Male,Full Time,Afternoon,Whole Day,2000,4,36,328121249110,no,true,false,true
+965,9605298816,Vitthalwadi,Delivery Boy,true,23,Male,Part Time,Afternoon,Afternoon,6500,6,56,096019074102,yes,true,false,true
+966,9349734290,Vitthalwadi,Mechanic,true,20,Male,Part Time,Morning,Morning,5500,6,57,222119365897,yes,true,false,false
+967,7173924350,Wagholi,Accountant,false,29,Female,Full Time,Evening,Whole Day,3500,5,40,910075492528,no,true,false,true
+968,7968304776,Wagholi,Brick mason,false,39,Male,Full Time,Afternoon,Whole Day,5000,7,44,241666421124,no,false,false,false
+969,9401842852,Wagholi,Carpenter,true,21,Male,Full Time,Morning,Whole Day,7500,9,44,700138708969,yes,true,false,false
+970,9644773026,Wagholi,Cashier,true,20,Female,Part Time,Evening,Evening,7000,8,52,154097845659,no,false,false,true
+971,7584118886,Wagholi,Childcare Worker,false,20,Female,Part Time,Afternoon,Afternoon,3000,1,14,939323783307,yes,false,false,false
+972,8579183057,Wagholi,Cook,true,24,Male,Part Time,Morning,Morning,6500,8,51,028886225081,yes,true,false,false
+973,9987206700,Wagholi,Driver,true,34,Male,Part Time,Morning,Morning,5000,10,51,441187634618,yes,true,false,false
+974,9957388629,Wagholi,Electrician,true,38,Male,Full Time,Evening,Whole Day,3500,3,36,445273706145,yes,true,false,true
+975,9618141765,Wagholi,Hairdresser,false,34,Female,Part Time,Evening,Evening,6000,9,41,993088278249,no,false,false,false
+976,7061920212,Wagholi,Janitor,true,22,Male,Part Time,Afternoon,Afternoon,7500,8,42,593053041681,no,true,false,true
+977,9235498819,Wagholi,Maid,false,18,Female,Part Time,Morning,Morning,3500,5,33,076051221068,yes,false,false,true
+978,9553367379,Wagholi,Mehndi Artist,false,29,Female,Full Time,Morning,Whole Day,5500,6,41,276662602546,no,true,false,false
+979,9965044708,Wagholi,Painter,false,24,Male,Part Time,Evening,Evening,5000,10,47,328273203875,no,false,false,true
+980,7447005809,Wagholi,Plumber,true,28,Male,Part Time,Evening,Evening,3000,2,20,726582520511,yes,true,false,false
+981,9875147447,Wagholi,Receptionist,true,29,Male,Full Time,Morning,Whole Day,9500,6,53,412930974670,no,false,false,true
+982,9123172271,Wagholi,Security Guard,false,19,Male,Full Time,Evening,Whole Day,7000,9,47,253775961884,yes,false,false,false
+983,9204805153,Wagholi,Tailor,true,24,Male,Full Time,Evening,Whole Day,8500,7,56,843008989820,no,true,false,true
+984,9850748954,Wagholi,Waiter,true,20,Male,Full Time,Afternoon,Whole Day,2500,3,39,447439606517,no,true,false,false
+985,8151237729,Wagholi,Waitress,true,18,Female,Full Time,Afternoon,Whole Day,6000,8,51,106354952282,no,true,false,false
+986,7589268377,Wagholi,Worker,false,22,Male,Full Time,Afternoon,Whole Day,3000,2,6,493984952975,yes,false,false,false
+987,8258203799,Wagholi,Salesperson,false,31,Female,Part Time,Evening,Evening,2000,3,33,211088753898,no,false,false,true
+988,7462360072,Wagholi,Delivery Boy,true,40,Male,Part Time,Evening,Evening,3000,3,21,735305635100,yes,true,false,true
+989,9303949562,Wagholi,Mechanic,true,25,Male,Full Time,Afternoon,Whole Day,6000,6,49,122990181966,yes,true,false,true
+990,7324623833,Wanowrie,Accountant,true,37,Male,Full Time,Morning,Whole Day,5000,7,44,678989862678,no,false,false,true
+991,7246594982,Wanowrie,Brick mason,true,38,Male,Part Time,Afternoon,Afternoon,5000,7,52,499959003300,no,true,false,false
+992,7218022928,Wanowrie,Carpenter,true,34,Male,Full Time,Afternoon,Whole Day,3500,4,28,554514810901,yes,true,false,true
+993,8832437504,Wanowrie,Cashier,false,37,Female,Full Time,Morning,Whole Day,3500,3,35,595835750302,no,true,false,true
+994,9662435658,Wanowrie,Childcare Worker,false,37,Female,Part Time,Morning,Morning,4000,1,20,007311249251,yes,true,false,true
+995,8379267901,Wanowrie,Cook,false,26,Male,Part Time,Evening,Evening,9500,6,41,747360166177,yes,false,false,false
+996,7339514726,Wanowrie,Driver,false,21,Male,Part Time,Morning,Morning,2500,3,25,431052092529,yes,true,false,true
+997,8728333708,Wanowrie,Electrician,false,25,Male,Part Time,Afternoon,Afternoon,4500,1,13,484131381456,yes,true,false,true
+998,8645786857,Wanowrie,Hairdresser,true,34,Female,Full Time,Afternoon,Whole Day,10000,9,48,114614159351,no,false,false,true
+999,9975747169,Wanowrie,Janitor,true,23,Male,Part Time,Afternoon,Afternoon,2500,5,28,480372451300,no,true,false,false
+1000,9913596198,Wanowrie,Maid,true,27,Female,Part Time,Evening,Evening,10000,10,60,268340883591,yes,true,false,true
